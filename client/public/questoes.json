@@ -1,287 +1,1921 @@
 [
   {
-    "id": "900601",
-    "disciplina": "Português",
-    "assunto": "Interpretação de Texto",
-    "banca": "CESPE",
-    "instituicao": "TJ-DF",
-    "ano": "2024",
-    "cargo": "Analista Judiciário",
-    "nivel": "Superior",
-    "enunciado": "Leia o texto a seguir:\n\n'A educação é o processo de desenvolvimento da capacidade física, intelectual e moral do ser humano, destinado a integrar-se na sociedade em que vive. Ela não é um fim em si mesma, mas um meio para que o indivíduo possa realizar-se plenamente.'\n\nDe acordo com o texto, a educação é:",
+    "id": 1,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Habilidades Profissionais",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o material apresentado, qual a principal distinção entre Hard Skills e Soft Skills?",
     "alternativas": {
-      "A": "Um fim em si mesma, destinada apenas ao desenvolvimento intelectual",
-      "B": "Um processo de desenvolvimento que integra o indivíduo na sociedade",
-      "C": "Um meio exclusivamente para o desenvolvimento físico",
-      "D": "Uma atividade que não contribui para a realização pessoal"
+      "A": "Hard Skills são habilidades socioemocionais, enquanto Soft Skills são técnicas.",
+      "B": "Hard Skills são habilidades técnicas e específicas da profissão, enquanto Soft Skills são habilidades sociocomportamentais.",
+      "C": "Hard Skills são adquiridas apenas na prática, e Soft Skills, na teoria.",
+      "D": "Não há distinção clara, pois ambas são igualmente importantes para qualquer carreira."
     },
     "resposta_correta": "B",
-    "comentario": "O texto deixa claro que a educação é um processo de desenvolvimento (físico, intelectual e moral) destinado a integrar o indivíduo na sociedade. Além disso, afirma que ela não é um fim em si mesma, mas um meio para a realização plena do ser humano. A alternativa B resume corretamente esses conceitos."
+    "comentario": "O material define Hard Skill como 'Habilidades principais, o que você realmente faz na sua profissão.' e Soft Skill como 'Habilidades sócio comportamentais do candidato/profissional.' (Página 2)."
   },
   {
-    "id": "900602",
-    "disciplina": "Português",
-    "assunto": "Gramática - Regência Verbal",
-    "banca": "CESPE",
-    "instituicao": "TJ-DF",
-    "ano": "2024",
-    "cargo": "Analista Judiciário",
-    "nivel": "Superior",
-    "enunciado": "Assinale a alternativa em que a regência verbal está correta:",
+    "id": 2,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Funções do Analista de Sistemas",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "Qual das seguintes opções NÃO representa uma função relacionada ao Analista de Sistemas, conforme listado no material?",
     "alternativas": {
-      "A": "O juiz insistiu em que o réu comparecesse à audiência",
-      "B": "O advogado aspirava o cargo de desembargador",
-      "C": "A testemunha assistiu o acidente da janela",
-      "D": "O promotor procedeu à análise dos documentos"
+      "A": "Analista Programador",
+      "B": "Analista de O&M (Organização e métodos)",
+      "C": "Analista de Marketing Digital",
+      "D": "Analista de BI (Business Intelligence)"
+    },
+    "resposta_correta": "C",
+    "comentario": "Na seção 'Funções' (Página 2), são listadas diversas funções como Analista Programador, Analista de O&M e Analista de BI. Analista de Marketing Digital não é mencionado como uma função relacionada ao Analista de Sistemas no documento."
+  },
+  {
+    "id": 3,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Tipos de Carreiras",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "A Carreira 'Y' ou '' apresentada no material permite que um profissional de TI siga qual tipo de progressão?",
+    "alternativas": {
+      "A": "Apenas a progressão em cargos de gestão, como Diretor de TI.",
+      "B": "Apenas a progressão em cargos técnicos especializados, como Programador Consultor.",
+      "C": "Tanto a progressão em cargos de gestão quanto em cargos técnicos especializados.",
+      "D": "A progressão é limitada a um único nível hierárquico, sem possibilidade de avanço."
+    },
+    "resposta_correta": "C",
+    "comentario": "A ilustração da 'Carreira Y' ou '' (Página 1) mostra claramente duas trilhas de progressão: uma para cargos de gestão (Diretor de TI, Gerente de TI, Líder de Projetos) e outra para cargos técnicos especializados (Analista de Software SR/PL/JR, Prog. Consultor III/II/I)."
+  },
+  {
+    "id": 4,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Habilidades Essenciais",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Difícil",
+    "enunciado": "Considerando as Hard Skills e Soft Skills mencionadas no material, qual das seguintes combinações representa uma Hard Skill e uma Soft Skill, respectivamente, que são cruciais para um profissional de TI?",
+    "alternativas": {
+      "A": "Gestão de projetos e Não ser floco de neve.",
+      "B": "Domínio de Java / Python e Resolução de conflitos.",
+      "C": "Contabilidade e Liderança.",
+      "D": "Internet of Things (IOT) e Persuasão."
+    },
+    "resposta_correta": "B",
+    "comentario": "Na seção 'Hard Skill' (Página 2), 'Domínio de Java / Python' é listado como uma habilidade técnica. Na seção 'Soft Skill' (Página 2), 'Resolução de conflitos' é listado como uma habilidade sociocomportamental. As outras opções misturam incorretamente ou não representam as melhores combinações de acordo com a categorização do documento."
+  },
+  {
+    "id": 5,
+    "disciplina": "Metodologia de Desenvolvimento de Sistemas",
+    "assunto": "Conceitos Fundamentais",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o Dicionário Prof. Aurélio, qual a definição de Metodologia?",
+    "alternativas": {
+      "A": "Caminho pelo qual se atinge um objetivo.",
+      "B": "Estudo dos métodos e, especialmente, dos métodos das ciências.",
+      "C": "Conjunto de procedimentos para a construção do software.",
+      "D": "Técnica para a elaboração de procedimentos."
+    },
+    "resposta_correta": "B",
+    "comentario": "O Dicionário Prof. Aurélio define Metodologia como 'estudo dos métodos e, especialmente, dos métodos das ciências.' (Página 1)."
+  },
+  {
+    "id": 6,
+    "disciplina": "Metodologia de Desenvolvimento de Sistemas",
+    "assunto": "Metodologia X Método",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "Qual a principal diferença entre Metodologia e Método, conforme a conclusão apresentada no material?",
+    "alternativas": {
+      "A": "Metodologia especifica a técnica, enquanto método apresenta os procedimentos globais.",
+      "B": "Metodologia e método são termos sinônimos e intercambiáveis.",
+      "C": "Metodologia apresenta os procedimentos globais, e método especifica a técnica para a elaboração desses procedimentos.",
+      "D": "Método é utilizado apenas em ciências exatas, enquanto metodologia é para todas as áreas."
+    },
+    "resposta_correta": "C",
+    "comentario": "A conclusão sobre Metodologia X Método afirma que 'a metodologia apresenta, de maneira global, os procedimentos para a construção do software e o método especifica a técnica para a elaboração destes procedimentos' (Página 1)."
+  },
+  {
+    "id": 7,
+    "disciplina": "Metodologia de Desenvolvimento de Sistemas",
+    "assunto": "Razões para implantar MDS",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Fácil",
+    "enunciado": "Qual das seguintes NÃO é uma razão para se implantar/utilizar uma Metodologia de Desenvolvimento de Sistemas (MDS), de acordo com o material?",
+    "alternativas": {
+      "A": "Padronização.",
+      "B": "Aumento da complexidade do projeto.",
+      "C": "Facilidade no treinamento.",
+      "D": "Documentação automática."
+    },
+    "resposta_correta": "B",
+    "comentario": "As razões para se implantar/utilizar uma MDS incluem padronização, facilidade no treinamento, redução da manutenção, estipulação de prazos/custos reais, eliminação de erros e documentação automática. O aumento da complexidade do projeto não é listado como uma razão (Página 1)."
+  },
+  {
+    "id": 8,
+    "disciplina": "Metodologia de Desenvolvimento de Sistemas",
+    "assunto": "Mitos da Prática",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Difícil",
+    "enunciado": "Sobre os 'Mitos da Prática' e o tempo dedicado às fases do projeto de software, o material sugere que: ",
+    "alternativas": {
+      "A": "É necessário investir mais tempo nas fases finais do projeto.",
+      "B": "O tempo dedicado deve ser distribuído igualmente entre todas as fases.",
+      "C": "Há necessidade de se investir mais tempo nas fases iniciais do projeto de software.",
+      "D": "O investimento de tempo é irrelevante para o sucesso do projeto."
+    },
+    "resposta_correta": "C",
+    "comentario": "Na seção 'Mitos da Prática', o material afirma: 'Há necessidade de se investir mais tempo nas fases iniciais do projeto de software' (Página 1)."
+  },
+  {
+    "id": 9,
+    "disciplina": "Metodologia de Desenvolvimento de Sistemas",
+    "assunto": "Técnicas de Levantamento de Dados",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "Qual das seguintes técnicas é apresentada no material como uma forma de levantamento de dados/requisitos?",
+    "alternativas": {
+      "A": "Análise SWOT.",
+      "B": "Benchmarking.",
+      "C": "Prototipação.",
+      "D": "Diagrama de Ishikawa."
+    },
+    "resposta_correta": "C",
+    "comentario": "A seção 'Técnicas para Levantamento de dados / Requisitos' lista 'Prototipação' como uma das técnicas. As outras opções não são mencionadas no documento (Página 2)."
+  },
+  {
+    "id": 10,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Modelos de Processo",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o material, um Modelo de Processo é também conhecido como um paradigma de: ",
+    "alternativas": {
+      "A": "Gerenciamento de Projetos",
+      "B": "Engenharia de Software",
+      "C": "Análise de Negócios",
+      "D": "Desenvolvimento Ágil"
+    },
+    "resposta_correta": "B",
+    "comentario": "O material afirma que um Modelo de Processo é também conhecido como um paradigma de engenharia de software (Página 1)."
+  },
+  {
+    "id": 11,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Modelo Linear/Cascata",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "Qual das seguintes características NÃO se aplica ao Modelo Linear (Cascata) de desenvolvimento de software?",
+    "alternativas": {
+      "A": "Sistemático e Sequencial",
+      "B": "Etapas principais de análise, projeto, código e testes",
+      "C": "Alta flexibilidade para mudanças em fases avançadas",
+      "D": "Também conhecido como Modelo Clássico ou Convencional"
+    },
+    "resposta_correta": "C",
+    "comentario": "O Modelo Linear (Cascata) é sistemático e sequencial, com etapas bem definidas. Sua natureza sequencial o torna pouco flexível para mudanças em fases avançadas, o que é um dos problemas da análise convencional (Página 1 e 2)."
+  },
+  {
+    "id": 12,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Problemas da Análise Convencional",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "Um dos problemas da Análise Convencional, conforme o material, é que o cliente conhece o produto apenas quando ele está pronto. Qual a consequência direta desse problema?",
+    "alternativas": {
+      "A": "Redução do custo de retrabalho.",
+      "B": "Aumento da satisfação do cliente.",
+      "C": "Dificuldade de detecção de defeitos antes do término do projeto.",
+      "D": "Maior facilidade na descrição de procedimentos."
+    },
+    "resposta_correta": "C",
+    "comentario": "O material lista entre os problemas da Análise Convencional a 'Dificuldade de detecção de defeito antes do término do projeto' e que o 'Cliente conhece o produto apenas quando ele está pronto', o que implica que a detecção de defeitos ocorre tardiamente (Página 2)."
+  },
+  {
+    "id": 13,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Modelo de Prototipagem",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Fácil",
+    "enunciado": "Qual é uma das fases do Modelo de Prototipagem?",
+    "alternativas": {
+      "A": "Codificação final.",
+      "B": "Escutar o Cliente.",
+      "C": "Manutenção preventiva.",
+      "D": "Geração da Aplicação."
+    },
+    "resposta_correta": "B",
+    "comentario": "O diagrama do Modelo de Prototipagem inclui a fase de 'Escutar o Cliente' (Página 2)."
+  },
+  {
+    "id": 14,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Modelo RAD",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "O Modelo RAD (Rapid Application Development) tem como objetivo principal criar um sistema em qual período de tempo?",
+    "alternativas": {
+      "A": "6 a 12 meses.",
+      "B": "60 a 90 dias.",
+      "C": "1 a 2 anos.",
+      "D": "Mais de 2 anos."
+    },
+    "resposta_correta": "B",
+    "comentario": "O material especifica que o objetivo do Modelo RAD é de '60 a 90 dias para criar um sistema' (Página 2)."
+  },
+  {
+    "id": 15,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Modelos Evolucionários",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Fácil",
+    "enunciado": "Qual a principal característica dos Modelos Evolucionários?",
+    "alternativas": {
+      "A": "Não permitem alterações após a fase de projeto.",
+      "B": "Reconhecem que sistemas complexos se alteram com o tempo.",
+      "C": "Focam exclusivamente na entrega rápida de um produto final.",
+      "D": "São modelos estritamente sequenciais."
+    },
+    "resposta_correta": "B",
+    "comentario": "Os Modelos Evolucionários 'Reconhecem que sistemas complexos se alteram com o tempo' e 'Usam a iteração do ciclo de desenvolvimento para acompanhar a evolução do sistema' (Página 2)."
+  },
+  {
+    "id": 16,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Modelo Incremental",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "No Modelo Incremental, qual é o foco principal em relação à entrega do produto?",
+    "alternativas": {
+      "A": "Entregar todas as funcionalidades de uma vez no final do projeto.",
+      "B": "Focar na entrega do produto, implementando funcionalidades essenciais o mais cedo possível.",
+      "C": "Atrasar a entrega de funcionalidades para garantir a qualidade.",
+      "D": "Não há foco específico na entrega, apenas no processo."
+    },
+    "resposta_correta": "B",
+    "comentario": "O Modelo Incremental tem como foco 'Foco na entrega do produto' e 'Busca implementar funcionalidades essenciais o mais cedo possível' (Página 3)."
+  },
+  {
+    "id": 17,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Modelo Espiral",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Difícil",
+    "enunciado": "Qual é o principal problema associado ao Modelo Espiral, conforme mencionado no material?",
+    "alternativas": {
+      "A": "Não permite a adição de novas características e recursos.",
+      "B": "Requer gestão sofisticada para ser previsível e confiável, podendo se tornar um 'Projeto interminável'.",
+      "C": "Não há comunicação com o cliente durante o processo.",
+      "D": "É um modelo estritamente linear e sequencial."
+    },
+    "resposta_correta": "B",
+    "comentario": "O material aponta que o principal problema do Modelo Espiral é que 'requer gestão sofisticada para ser previsível e confiável. 'Projeto interminável'' (Página 3)."
+  },
+  {
+    "id": 18,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Modelos de Processo",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Médio",
+    "enunciado": "A Metodologia de Desenvolvimento de Sistemas (MDS) é uma estratégia que junta quais elementos?",
+    "alternativas": {
+      "A": "Apenas o processo e as ferramentas.",
+      "B": "Apenas os métodos e as ferramentas.",
+      "C": "O processo, os métodos e as ferramentas.",
+      "D": "Somente o processo."
+    },
+    "resposta_correta": "C",
+    "comentario": "O material define Modelos de Processo como 'Uma estratégia de desenvolvimento que junta o processo, os métodos e as ferramentas' (Página 1)."
+  },
+  {
+    "id": 19,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Problemas da Análise Convencional",
+    "banca": "Não informado",
+    "instituicao": "Não informado",
+    "ano": "Não informado",
+    "cargo": "Não informado",
+    "nivel": "Difícil",
+    "enunciado": "Qual dos seguintes problemas NÃO é explicitamente listado como um problema da Análise Convencional no material?",
+    "alternativas": {
+      "A": "Dificuldade de descrever procedimentos.",
+      "B": "Falta de linguagem comum.",
+      "C": "Excesso de ferramentas adequadas para apoio.",
+      "D": "Custo do retrabalho."
+    },
+    "resposta_correta": "C",
+    "comentario": "O material lista 'Poucas Ferramentas adequadas para apoio' como um problema da Análise Convencional, o oposto de 'Excesso de ferramentas adequadas para apoio' (Página 2)."
+  },
+  {
+    "id": 20,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "FGV",
+    "instituicao": "Órgão Público",
+    "ano": "2026",
+    "cargo": "Analista de Tecnologia da Informação",
+    "nivel": "Superior",
+    "enunciado": "O Selenium estabeleceu-se como uma ferramenta confiável para testes da web. Analisando as características técnicas e limitações desta ferramenta apresentadas no material, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "Sua execução é consideravelmente mais rápida que as ferramentas mais modernas, sendo o padrão ouro para scripts complexos de front-end.",
+      "B": "O Selenium suporta o teste em modo headless, onde o navegador é executado em segundo plano sem uma Interface Gráfica de Usuário (GUI), o que acelera a execução dos testes.",
+      "C": "A ferramenta é recomendada para equipes leigas devido à sua curva de aprendizado suave e interface de gravação nativa (record and playback) que dispensa codificação.",
+      "D": "O Selenium Grid é utilizado primariamente para integrar o Selenium a outras linguagens não suportadas, simulando um repositório de objetos."
+    },
+    "resposta_correta": "B",
+    "comentario": "A alternativa correta é a B. O material afirma nos 'Detalhes Técnicos' que o Selenium 'Suporta teste em um modo headless, onde o navegador é executado em segundo plano sem uma GUI, acelerando a execução dos testes' (Fonte 26). A alternativa A está incorreta pois o material relata como contra que a 'execução dos testes pode ser mais lenta em comparação com ferramentas mais modernas' (Fonte 36). A alternativa C está incorreta pois o Selenium possui 'Curva de Aprendizado Íngreme: Requer uma compreensão sólida de programação' (Fonte 35). A alternativa D está incorreta pois o Selenium Grid 'Permite execução paralela de testes em várias máquinas' (Fonte 25)."
+  },
+  {
+    "id": 21,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "CESPE/Cebraspe",
+    "instituicao": "Órgão Público",
+    "ano": "2026",
+    "cargo": "Analista de Sistemas",
+    "nivel": "Superior",
+    "enunciado": "Dentre as ferramentas de testes automatizados, o Cypress.io tornou-se rapidamente um favorito entre desenvolvedores front-end por sua abordagem. Sobre o Cypress, qual alternativa descreve corretamente sua arquitetura ou funcionamento fundamental?",
+    "alternativas": {
+      "A": "É focado exclusivamente em testes de aplicativos móveis nativos e híbridos usando o protocolo do WebDriver.",
+      "B": "Utiliza a linguagem Python como servidor e interpretador principal de seus scripts de testes distribuídos.",
+      "C": "Requer a instalação prévia de um agente no código-fonte do servidor back-end para viabilizar as esperas automáticas.",
+      "D": "É executado diretamente no navegador e utiliza o Node.js como servidor e interpretador de sua linguagem JavaScript, permitindo testes end-to-end (E-2-E)."
+    },
+    "resposta_correta": "D",
+    "comentario": "A alternativa correta é a D. Segundo o material, o Cypress 'Executando diretamente no navegador, oferece testes rápidos' (Fonte 42) e 'Utiliza o node JS como servidor e interpretador de sua linguagem JavaScript, permitindo testes E-2-E e com um conjunto completo de frameworks' (Fonte 43). A alternativa A está errada porque o Cypress é 'Apenas Web: Limitado a testes de aplicações web, sem suporte nativo para aplicativos móveis' (Fonte 72). A alternativa B está incorreta pois ele utiliza JavaScript/TypeScript e Node.js. A alternativa C não tem respaldo no texto, sendo que sua execução rápida dispensa modificação de back-end com agentes."
+  },
+  {
+    "id": 22,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "FCC",
+    "instituicao": "Órgão Público",
+    "ano": "2026",
+    "cargo": "Engenheiro de Software",
+    "nivel": "Superior",
+    "enunciado": "A respeito do Katalon Studio, avalie suas características operacionais e limitações e assinale a alternativa correta de acordo com as informações fornecidas.",
+    "alternativas": {
+      "A": "Oferece personalização ilimitada de código, superando em níveis de customização estrutural frameworks puramente baseados em código.",
+      "B": "Destaca-se por sua altíssima velocidade de desempenho, processando suítes de testes muito grandes e cenários complexos mais rápido que seus concorrentes diretos.",
+      "C": "O Katalon aproveita o poder do Selenium e do Appium como motores integrados para fornecer uma base robusta tanto para testes web quanto para testes móveis.",
+      "D": "Não possui palavras-chave (keywords) embutidas, exigindo estritamente que todos os testadores saibam codificar frameworks a partir do zero."
+    },
+    "resposta_correta": "C",
+    "comentario": "A alternativa correta é a C, pois o documento aponta em 'Detalhes Técnicos' que o Katalon é 'Baseado em Selenium e Appium: Aproveita o poder do Selenium e do Appium para testes web e móveis, fornecendo uma base robusta para testes' (Fonte 94). A alternativa A está errada pois, nos 'Contras', é mencionado: 'Personalização Limitada: Embora poderosa, pode não oferecer o mesmo nível de personalização que frameworks puramente baseados em código' (Fonte 108). A alternativa B está incorreta porque um dos contras é 'Desempenho: Pode ser lenta para suítes de teste muito grandes, particularmente aquelas com cenários complexos' (Fonte 109). A alternativa D está errada pois a ferramenta 'Oferece uma ampla gama de palavras-chaves embutidas' permitindo testes sem codificação (Fonte 88)."
+  },
+  {
+    "id": 23,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "VUNESP",
+    "instituicao": "Órgão Público",
+    "ano": "2026",
+    "cargo": "Desenvolvedor de Software",
+    "nivel": "Superior",
+    "enunciado": "O uso de ferramentas específicas direcionadas para plataformas móveis traz particularidades cruciais ao processo de automação de testes. Segundo o material abordado sobre o ecossistema de testes, a ferramenta Robotium é focada principalmente em:",
+    "alternativas": {
+      "A": "Automação de testes para Android, sendo compatível com aplicações nativas e híbridas, simulando procedimentos e facilitando a escrita de testes de caixa-preta.",
+      "B": "Testes de desempenho e carga em servidores web, validando o tempo de resposta através de bibliotecas exclusivas de injeção de dados.",
+      "C": "Testes de regressão estruturais em ambientes desktop Windows e macOS, utilizando primordialmente linguagens como VBScript e Python.",
+      "D": "Automação da substituição de versões originais em mock-up para testes unitários em aplicativos unicamente para o ecossistema iOS."
     },
     "resposta_correta": "A",
-    "comentario": "A alternativa A está correta. 'Insistir em' é a regência verbal adequada. Analisando as demais: B - 'aspirar' (no sentido de desejar) não admite preposição; C - 'assistir' (presenciar) não admite objeto direto; D - 'proceder' (agir) não admite preposição 'a' neste contexto."
+    "comentario": "A correta é a alternativa A. O PDF deixa claro que 'O Robotium é um framework gratuito bastante popular em automação de testes para Android. compatível com aplicações nativas e híbridas' (Fonte 111) e 'Uma das grandes vantagens é que facilita a escrita da automação de testes de caixa preta' (Fonte 113). As alternativas B, C e D descrevem incorretamente funcionalidades e escopos de outras ferramentas (TestComplete, Ranorex, Jmockit etc.) ou não fazem parte da finalidade do Robotium."
   },
   {
-    "id": "900603",
-    "disciplina": "Direito Constitucional",
-    "assunto": "Direitos Fundamentais",
-    "banca": "FCC",
-    "instituicao": "TRE-SP",
-    "ano": "2023",
-    "cargo": "Juiz Eleitoral",
+    "id": 24,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "IBAM",
+    "instituicao": "Prefeitura Municipal",
+    "ano": "2026",
+    "cargo": "Analista de TI",
     "nivel": "Superior",
-    "enunciado": "De acordo com a Constituição Federal de 1988, os direitos e garantias fundamentais têm aplicação imediata. Qual das alternativas melhor descreve essa característica?",
+    "enunciado": "A ferramenta Watir é descrita como 'leve e elegante', sendo adotada para automação web. Qual das seguintes alternativas apresenta de forma precisa as propriedades técnicas e as desvantagens dessa solução?",
     "alternativas": {
-      "A": "Os direitos fundamentais dependem de lei complementar para sua efetivação",
-      "B": "Os direitos fundamentais são auto-aplicáveis e independem de regulamentação legal",
-      "C": "Os direitos fundamentais só podem ser exercidos após aprovação do Congresso Nacional",
-      "D": "Os direitos fundamentais aplicam-se apenas aos brasileiros natos"
+      "A": "O Watir é voltado para testes orientados a palavras-chave (Keyword-driven), no entanto, apresenta uma curva de aprendizado inacessível para usuários sem conhecimentos em Java.",
+      "B": "O Watir incentiva fortemente o Modelo de Objeto de Página e integra-se com frameworks de BDD como Cucumber, porém sua principal desvantagem é limitar-se a testes web e depender do ecossistema Ruby.",
+      "C": "Possui suporte nativo e multiplataforma para ambientes desktop e mobile por padrão, contudo sofre com uma comunidade incipiente e falta de documentação oficial confiável.",
+      "D": "É projetada para realizar instrumentação em tempo de execução através do protocolo Node.js, substituindo classes originais, o que gera alto risco de erros silenciosos."
     },
     "resposta_correta": "B",
-    "comentario": "A Constituição Federal, em seu artigo 5º, parágrafo 1º, estabelece que 'as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata'. Isso significa que tais direitos são auto-aplicáveis, não dependendo de lei complementar ou ordinária para sua efetivação. A alternativa B descreve corretamente essa característica."
+    "comentario": "A correta é a B. Segundo o material, o Watir 'Incentiva o uso do Modelo de Objeto de Página' (Fonte 173) e 'Integra-se com frameworks BDD como RSpec e Cucumber' (Fonte 174). Contudo, em seus Contras: 'Limitado a Testes Web' (Fonte 182) e 'Dependência do Ruby: Como uma ferramenta específica do Ruby, é mais adequada para equipes que já usam Ruby' (Fonte 183). A alternativa A confunde com o Robot Framework (que é orientado a palavras-chave). A alternativa C é o oposto da verdade (Watir foca em Web e tem comunidade ativa - Fonte 180). A alternativa D descreve características do Jmockit."
   },
   {
-    "id": "900604",
-    "disciplina": "Direito Constitucional",
-    "assunto": "Organização do Estado",
-    "banca": "CESPE",
-    "instituicao": "MPU",
-    "ano": "2023",
-    "cargo": "Procurador",
+    "id": 25,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "CEBRASPE",
+    "instituicao": "Órgão Público",
+    "ano": "2026",
+    "cargo": "Perito em Tecnologia da Informação",
     "nivel": "Superior",
-    "enunciado": "A República Federativa do Brasil é formada pela união indissolúvel de Estados, Municípios e Distrito Federal. Sobre a federação brasileira, é correto afirmar:",
+    "enunciado": "No ecossistema Java, JUnit e TestNG são amplamente conhecidos. Comparando as duas ferramentas baseadas no material técnico analisado, marque a afirmação correta sobre as capacidades de ambas.",
     "alternativas": {
-      "A": "Os Estados-membros possuem soberania, podendo denunciar a Constituição Federal",
-      "B": "O Distrito Federal possui autonomia administrativa e financeira, mas não legislativa",
-      "C": "Os Municípios são entidades federativas autônomas com competência legislativa própria",
-      "D": "A União é responsável exclusivamente pela defesa nacional e relações internacionais"
+      "A": "Ambos os frameworks, TestNG e JUnit, são inteiramente agnósticos de linguagem, podendo ser utilizados sem configurações extras em projetos Node.js e Python.",
+      "B": "O JUnit destaca-se por possuir ferramentas nativas avançadas para elaboração de relatórios (out of the box), não sendo necessário utilizar nenhuma solução terceira para análises detalhadas.",
+      "C": "O JUnit é amplamente superior ao TestNG em flexibilidade técnica, dado que introduziu nativamente o conceito de execução paralela de testes, algo estritamente impossível no TestNG.",
+      "D": "O TestNG oferece recursos mais avançados e maior flexibilidade do que o JUnit, dispondo de suporte embutido para testes de dependência e controle apurado sobre a ordem de execução."
+    },
+    "resposta_correta": "D",
+    "comentario": "A correta é a D. O material atesta sobre o TestNG: 'oferece recursos mais avançados e maior flexibilidade em comparação com o JUnit' (Fonte 187) e em detalhes técnicos: 'Testes de Dependência: Suporte embutido para testes de dependência, permitindo que você defina dependências entre testes e controle a ordem de execução' (Fonte 206). A alternativa A erra, pois ambos são focados no ecossistema Java. A alternativa B está incorreta porque o JUnit tem 'Relatórios Básicos: As capacidades de relatório de prateleira são limitadas' (Fonte 309). A alternativa C inverte a situação, já que é o TestNG que 'Suporta execução paralela de testes' de forma mais eficiente (Fonte 194)."
+  },
+  {
+    "id": 26,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "Instituto Consulplan",
+    "instituicao": "Câmara Municipal",
+    "ano": "2026",
+    "cargo": "Analista Desenvolvedor",
+    "nivel": "Superior",
+    "enunciado": "As APIs (Application Programming Interfaces) exigem soluções próprias de teste. Considerando o Postman e o Apidog, descritos no material, é correto afirmar a respeito de suas funcionalidades que:",
+    "alternativas": {
+      "A": "Ambas as ferramentas exigem a escrita manual do código das requisições via JavaScript no console, já que não oferecem Interfaces Gráficas Intuitivas (GUIs) para desenvolvedores.",
+      "B": "O Postman oferece ferramentas de relatórios visuais avançados ilimitados em suas licenças gratuitas, ao passo que o Apidog é inteiramente desprovido de análises e relatórios de progresso.",
+      "C": "O Apidog destaca-se pelo suporte robusto a múltiplos protocolos de API, como REST, GraphQL e SOAP, enquanto o Postman permite testes automatizados via Newman CLI em fluxos de CI/CD.",
+      "D": "O Postman foca estritamente em sistemas legados do tipo SOAP, não suportando configurações contemporâneas baseadas em variáveis de ambiente, diferentemente do Apidog."
     },
     "resposta_correta": "C",
-    "comentario": "A alternativa C está correta. Os Municípios são entidades federativas autônomas com competência legislativa própria, conforme estabelecido na Constituição Federal. As demais alternativas contêm erros: A - Estados têm autonomia, não soberania; B - O DF possui autonomia legislativa também; D - A União tem outras responsabilidades além das mencionadas."
+    "comentario": "A correta é a C. Sobre o Apidog, a Fonte 356 garante: 'Lida com protocolos REST, GraphQL e SOAP'. Sobre o Postman, a Fonte 227 afirma: 'Newman CLI: Integra-se com pipelines de CI/CD, permitindo testes automatizados'. A alternativa A erra pois ambas ferramentas possuem interfaces GUI intuitivas. A alternativa B está incorreta pois o material cita no Postman: 'Relatórios Limitados na Versão Gratuita' (Fonte 243). A alternativa D está errada pois o Postman facilita o 'Gerenciamento de Ambiente', lidando sim com variáveis (Fonte 235), e não atua estritamente sobre SOAP."
   },
   {
-    "id": "900605",
-    "disciplina": "Raciocínio Lógico",
-    "assunto": "Lógica Proposicional",
-    "banca": "CESPE",
-    "instituicao": "ABIN",
-    "ano": "2024",
-    "cargo": "Agente de Inteligência",
+    "id": 27,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "AOCP",
+    "instituicao": "Órgão Público",
+    "ano": "2026",
+    "cargo": "Analista de Qualidade e Testes",
     "nivel": "Superior",
-    "enunciado": "Considere as proposições:\nP: 'Se chove, então a rua fica molhada'\nQ: 'A rua ficou molhada'\n\nPodemos concluir que:",
+    "enunciado": "O Robot Framework se diferencia de outros frameworks de automação por sua abordagem metodológica e arquitetural. Com base no material, qual afirmação traduz as características técnicas, vantagens ou desvantagens dessa ferramenta?",
     "alternativas": {
-      "A": "Choveu com certeza",
-      "B": "Não choveu",
-      "C": "Pode ter chovido ou a rua foi molhada por outro motivo",
-      "D": "A rua não ficou molhada"
-    },
-    "resposta_correta": "C",
-    "comentario": "Temos uma condicional 'Se chove, então a rua fica molhada' e sabemos que 'A rua ficou molhada'. Isso não nos permite concluir que choveu, pois a rua pode ter ficado molhada por outro motivo (rega, limpeza, etc.). Esse é o erro lógico conhecido como 'afirmação do consequente'. A alternativa C descreve corretamente a situação."
-  },
-  {
-    "id": "900606",
-    "disciplina": "Raciocínio Lógico",
-    "assunto": "Análise Combinatória",
-    "banca": "FCC",
-    "instituicao": "TRT-SP",
-    "ano": "2023",
-    "cargo": "Analista Judiciário",
-    "nivel": "Superior",
-    "enunciado": "De quantas maneiras diferentes é possível organizar 5 pessoas em uma fila?",
-    "alternativas": {
-      "A": "25",
-      "B": "120",
-      "C": "60",
-      "D": "240"
+      "A": "O Robot Framework impossibilita o uso em testes web modernos, focando sua abordagem de palavras-chave unicamente em automação restrita a bases de dados corporativas fechadas.",
+      "B": "Adota uma arquitetura orientada a palavras-chave (Keyword-driven), permitindo a criação de casos fáceis de ler por perfis não técnicos, mas essa metodologia e o próprio framework carregam uma curva de aprendizado inicial.",
+      "C": "Embora seja amigável, uma grande desvantagem do Robot Framework é a sua arquitetura fechada que impede a integração de bibliotecas Python ou Java criadas pelas equipes técnicas.",
+      "D": "Possui um motor de renderização nativo e fechado que confere à ferramenta execuções instantâneas, tornando-o sempre a opção mais rápida do mercado para imensas suítes de testes orientadas a código."
     },
     "resposta_correta": "B",
-    "comentario": "O número de maneiras de organizar n pessoas em uma fila é n! (n fatorial). Para 5 pessoas: 5! = 5 × 4 × 3 × 2 × 1 = 120. Portanto, existem 120 maneiras diferentes de organizar 5 pessoas em uma fila."
+    "comentario": "A alternativa correta é a B. O material informa que o Robot Framework fornece 'Testes Orientados a Palavras-Chave: Permite a criação de casos de teste usando palavras-chave legíveis por humanos' (Fonte 256). Contudo, nos contras: 'Curva de Aprendizado: A metodologia orientada a palavras-chave pode exigir algum tempo para dominar' (Fonte 276). A alternativa A está errada pois ele 'Funciona perfeitamente com o Selenium para testes web' (Fonte 269). A alternativa C é oposta ao texto, que diz ser 'Extensível com Bibliotecas: Pode ser estendido com bibliotecas Python e Java' (Fonte 257). A alternativa D está incorreta porque um de seus contras é o 'Desempenho: A execução de testes pode ser mais lenta em comparação com frameworks mais centrados em código' (Fonte 277)."
   },
   {
-    "id": "900607",
-    "disciplina": "Matemática",
-    "assunto": "Álgebra - Equações de Primeiro Grau",
-    "banca": "CESPE",
-    "instituicao": "Polícia Federal",
-    "ano": "2024",
-    "cargo": "Agente",
-    "nivel": "Médio",
-    "enunciado": "Resolva a equação: 3x + 5 = 20",
+    "id": 28,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "CEBRASPE",
+    "instituicao": "Tribunal de Justiça",
+    "ano": "2026",
+    "cargo": "Analista Judiciário - Apoio Especializado em TI",
+    "nivel": "Superior",
+    "enunciado": "O Appium é apresentado como líder no setor de testes móveis, solucionando o desafio da fragmentação de plataformas e linguagens. Assinale a alternativa que reflete corretamente as propriedades técnicas e operacionais da ferramenta Appium.",
     "alternativas": {
-      "A": "x = 5",
-      "B": "x = 10",
-      "C": "x = 15",
-      "D": "x = 25"
+      "A": "Utiliza APIs de automação padrão (standard) o que garante uma vantagem crítica: possibilita a realização e criação de testes automatizados sem a necessidade de alterar ou compilar o código-fonte original do aplicativo sob teste.",
+      "B": "Sua principal vulnerabilidade e razão da sua configuração simplificada é a total ausência de integração com outros frameworks de execução de testes como JUnit e TestNG, obrigando o uso exclusivo da linguagem Python.",
+      "C": "Devido a dependências de interface profundas (deep hooking), o Appium obriga o desenvolvedor a recompilar a aplicação injetando bibliotecas exclusivas fornecidas pelo próprio Appium no código-fonte.",
+      "D": "Sua arquitetura destina-se puramente a simulações visuais em aplicativos web móveis (mobile web), não detendo capacidades técnicas para testar aplicativos compilados como Nativos ou Híbridos para lojas de aplicativos (App Stores)."
     },
     "resposta_correta": "A",
-    "comentario": "Resolvendo a equação: 3x + 5 = 20 → 3x = 20 - 5 → 3x = 15 → x = 15/3 → x = 5. A resposta correta é x = 5."
+    "comentario": "A resposta correta é a A. O texto detalha nos principais recursos do Appium: 'APIs de Automação Padrão: Usa frameworks de automação padrão, o que significa que você não precisa modificar seu aplicativo para criar testes' (Fonte 321) e ressalta que 'Os testes podem ser escritos sem alterar o código-fonte da aplicação' (Fonte 323). A alternativa B está incorreta pois ele 'Integra-se com frameworks de teste populares como TestNG e JUnit' (Fonte 333). A alternativa C afirma o contrário da A e do texto (não precisa alterar código-fonte). A alternativa D está errada porque o Appium testa 'aplicativos nativos, híbridos e da web móvel' (Fonte 332)."
   },
   {
-    "id": "900608",
-    "disciplina": "Matemática",
-    "assunto": "Geometria - Área",
-    "banca": "CESPE",
-    "instituicao": "Polícia Federal",
-    "ano": "2024",
-    "cargo": "Agente",
-    "nivel": "Médio",
-    "enunciado": "Qual é a área de um retângulo com base 12 cm e altura 8 cm?",
-    "alternativas": {
-      "A": "20 cm²",
-      "B": "40 cm²",
-      "C": "96 cm²",
-      "D": "192 cm²"
-    },
-    "resposta_correta": "C",
-    "comentario": "A área de um retângulo é calculada pela fórmula: A = base × altura. Portanto: A = 12 × 8 = 96 cm²."
-  },
-  {
-    "id": "900609",
-    "disciplina": "Conhecimentos Gerais",
-    "assunto": "História do Brasil",
-    "banca": "CESPE",
-    "instituicao": "TJ-DF",
-    "ano": "2023",
-    "cargo": "Técnico Judiciário",
-    "nivel": "Médio",
-    "enunciado": "Em qual ano foi proclamada a República no Brasil?",
-    "alternativas": {
-      "A": "1822",
-      "B": "1889",
-      "C": "1891",
-      "D": "1930"
-    },
-    "resposta_correta": "B",
-    "comentario": "A República foi proclamada no Brasil em 15 de novembro de 1889, com a deposição do Imperador Dom Pedro II. Esse evento marcou o fim do Império e o início da República da Velha República (1889-1930)."
-  },
-  {
-    "id": "900610",
-    "disciplina": "Conhecimentos Gerais",
-    "assunto": "Geografia - Capitais",
-    "banca": "FCC",
-    "instituicao": "TRE-SP",
-    "ano": "2023",
-    "cargo": "Técnico Eleitoral",
-    "nivel": "Médio",
-    "enunciado": "Qual é a capital do estado de Minas Gerais?",
-    "alternativas": {
-      "A": "Ouro Preto",
-      "B": "Belo Horizonte",
-      "C": "Juiz de Fora",
-      "D": "Montes Claros"
-    },
-    "resposta_correta": "B",
-    "comentario": "Belo Horizonte é a capital do estado de Minas Gerais desde 1897. A cidade foi planejada e construída especificamente para ser a capital, substituindo Ouro Preto que era a capital anterior."
-  },
-  {
-    "id": "900611",
-    "disciplina": "Português",
-    "assunto": "Pontuação",
-    "banca": "CESPE",
-    "instituicao": "TJ-DF",
-    "ano": "2024",
-    "cargo": "Analista Judiciário",
+    "id": 29,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "VUNESP",
+    "instituicao": "Empresa Pública",
+    "ano": "2026",
+    "cargo": "Arquiteto de Software",
     "nivel": "Superior",
-    "enunciado": "Qual das alternativas apresenta o uso correto de pontuação?",
+    "enunciado": "Dentro do escopo de testes, simulações através de mock-up (escarnecimento) são técnicas que requerem instrumentação apropriada. Analisando as informações disponibilizadas sobre o Jmockit, identifique a opção que descreve corretamente sua dinâmica de funcionamento ou suas falhas.",
     "alternativas": {
-      "A": "O juiz, decidiu, pela condenação do réu.",
-      "B": "O juiz decidiu pela condenação do réu.",
-      "C": "O juiz decidiu, pela condenação, do réu.",
-      "D": "O juiz decidiu pela condenação, do réu."
+      "A": "O Jmockit previne todos os tipos de exceções técnicas em tempo de execução validando rigorosamente as assinaturas de método em tempo de compilação, o que impede falhas silenciosas nos testes.",
+      "B": "A instrumentação pela ferramenta ocorre estritamente em tempo de compilação (compile-time), substituindo o código-fonte diretamente sem necessidade de parâmetros de JVM adicionais.",
+      "C": "Ele automatiza a substituição de versões originais em tempo de execução através da redefinição de métodos (e.g. Mockit.redefineMethods), devendo a chamada receber argumentos específicos como '-javaagent'.",
+      "D": "A maior desvantagem do Jmockit está atrelada à intensa modificação permanente imposta à base do código-fonte e do design arquitetural das classes envolvidas."
+    },
+    "resposta_correta": "C",
+    "comentario": "A alternativa correta é a C. De acordo com o documento, a 'Instrumentação ocorre em tempo de execução' (Fonte 380), e é realizada utilizando a instrução: 'Mockit.redefineMethods (Class, Class/Object)' (Fonte 387/392). É exigido que 'A execução precisa receber o seguinte parâmetro: -ea -javaagent: libs  jmockit.jar  (Fonte 395). A alternativa A está errada pois um dos contras explícitos é o 'Erro silencioso: E.g., assinatura de método fonte e destino não casa' e 'Exceção em tempo de execução' (Fonte 406 a 408). A alternativa B erra ao dizer 'tempo de compilação'. A alternativa D também erra, pois um dos Prós é que o Jmockit 'Não interfere no código fonte/design' (Fonte 404)."
+  },
+  {
+    "id": 30,
+    "disciplina": "Engenharia de Software",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "FGV",
+    "instituicao": "Tribunal de Contas",
+    "ano": "2026",
+    "cargo": "Auditor de TI",
+    "nivel": "Superior",
+    "enunciado": "A técnica de Teste de Mutação visa verificar a eficácia do próprio conjunto de casos de teste, modificando o código do sistema e analisando o resultado. Em conformidade com o uso da ferramenta MUCLIPSE exposta no texto, ao rodar os testes e analisar os resultados do procedimento, espera-se que o usuário receba como saída:",
+    "alternativas": {
+      "A": "A separação física automatizada entre os códigos mutantes (arquivos danificados) e o código da aplicação limpa, impedindo que desenvolvedores corrompam ambientes produtivos.",
+      "B": "A execução interativa em tempo real de uma GUI web apontando falhas e gerando novos testes automatizados em JUnit instantaneamente.",
+      "C": "Um relatório sistemático listando um 'score de mutação' estatístico acompanhado dos rótulos 'killed' (morto) ou 'alive' (vivo) atribuídos a cada mutante gerado.",
+      "D": "Uma lista padronizada de comandos para o framework Selenium e scripts do Jmockit visando injetar dependências falsas nos mutantes sobreviventes."
+    },
+    "resposta_correta": "C",
+    "comentario": "A alternativa C está correta pois espelha os exatos resultados descritos na seção do MUCLIPSE de 'Rodar testes e analisar resultados', que define como 'Saída: Relatório com score de mutação e label killed ou alive associado a cada mutante' (Fontes 452 e 453). A alternativa A tenta misturar um conceito anterior ('Separação de código falho do original', Fonte 437, que diz respeito às características importantes e não à etapa estrita da saída final rodada). As alternativas B e D inserem características não associadas ao mecanismo estrito de geração de mutantes MuJava/MuClipse descrito no material."
+  },
+  {
+    "id": 31,
+    "disciplina": "Tecnologia da Informação",
+    "assunto": "Teste de Software - Ferramentas de Automação",
+    "banca": "CEBRASPE",
+    "instituicao": "Banco Público",
+    "ano": "2026",
+    "cargo": "Analista Desenvolvedor",
+    "nivel": "Médio/Técnico",
+    "enunciado": "Uma variada matriz de soluções está disponível para o teste automatizado dependendo do nicho avaliado. Conforme o material instrucional, a plataforma LambdaTest e a ferramenta Kobiton diferenciam-se e são voltadas predominantemente para quais cenários, respectivamente?",
+    "alternativas": {
+      "A": "LambdaTest destina-se a realizar testes unitários robustos puramente no ambiente Windows desktop, enquanto o Kobiton é um framework de execução local para o navegador Opera.",
+      "B": "LambdaTest é focada na execução de automação cross-browser suportando mais de 2.000 navegadores; o Kobiton é uma plataforma focada especificamente em acelerar a entrega e o teste manual e automatizado de aplicativos móveis em dispositivos reais.",
+      "C": "LambdaTest foca em testes exploratórios manuais de interface (UI) exclusivamente via Visual Studio, enquanto Kobiton analisa coberturas de código em projetos importados do repositório MuJava.",
+      "D": "Ambas operam essencialmente de forma paralela no mercado de servidores back-end, onde o LambdaTest realiza injeção em banco de dados Node.js e o Kobiton monitora transações SOAP."
     },
     "resposta_correta": "B",
-    "comentario": "A alternativa B apresenta o uso correto de pontuação. A frase não necessita de vírgulas, pois segue a ordem direta (sujeito + verbo + complemento). As demais alternativas contêm vírgulas desnecessárias ou mal colocadas que prejudicam a clareza da frase."
+    "comentario": "A alternativa correta é a B. O material define o LambdaTest como 'uma das ferramentas preferidas para executar testes automatizados entre navegadores. Portanto, os usuários podem executar seus testes em mais de 2.000 navegadores e sistemas operacionais' (Fontes 136 e 137). E para o Kobiton, o descreve como 'uma plataforma de teste móvel que acelera a entrega e o teste de aplicativos móveis, oferecendo testes manuais e automatizados... em vários dispositivos reais' (Fontes 146 e 147). As alternativas A, C e D mesclam equivocadamente conceitos aplicáveis a outras ferramentas distintas."
   },
   {
-    "id": "900612",
-    "disciplina": "Direito Constitucional",
-    "assunto": "Direitos Políticos",
-    "banca": "CESPE",
-    "instituicao": "TRE-SP",
-    "ano": "2023",
-    "cargo": "Analista Judiciário",
-    "nivel": "Superior",
-    "enunciado": "De acordo com a Constituição Federal, o voto é:",
-    "alternativas": {
-      "A": "Obrigatório apenas para maiores de 21 anos",
-      "B": "Facultativo para maiores de 16 anos",
-      "C": "Obrigatório para maiores de 18 anos e facultativo para maiores de 16 anos",
-      "D": "Facultativo para todos os cidadãos"
-    },
-    "resposta_correta": "C",
-    "comentario": "A Constituição Federal estabelece que o voto é obrigatório para maiores de 18 anos e facultativo para maiores de 16 anos e menores de 18 anos, bem como para maiores de 70 anos. A alternativa C descreve corretamente essa situação."
-  },
-  {
-    "id": "900613",
-    "disciplina": "Raciocínio Lógico",
-    "assunto": "Silogismo",
-    "banca": "FCC",
-    "instituicao": "TJAP",
-    "ano": "2023",
-    "cargo": "Juiz",
-    "nivel": "Superior",
-    "enunciado": "Considere o silogismo:\nTodos os homens são mortais.\nSócrates é um homem.\nPortanto, Sócrates é mortal.\n\nEste silogismo é:",
-    "alternativas": {
-      "A": "Inválido, pois a conclusão não segue das premissas",
-      "B": "Válido, pois a conclusão segue logicamente das premissas",
-      "C": "Inválido, pois Sócrates não é homem",
-      "D": "Válido, mas a conclusão é falsa"
-    },
-    "resposta_correta": "B",
-    "comentario": "Este é um silogismo válido. A estrutura é correta: se todos os homens são mortais (premissa maior) e Sócrates é um homem (premissa menor), então logicamente Sócrates é mortal (conclusão). A conclusão segue necessariamente das premissas, tornando o silogismo válido."
-  },
-  {
-    "id": "900614",
-    "disciplina": "Matemática",
-    "assunto": "Porcentagem",
-    "banca": "CESPE",
-    "instituicao": "Polícia Federal",
-    "ano": "2024",
-    "cargo": "Agente",
-    "nivel": "Médio",
-    "enunciado": "Se um produto custa R$ 100 e recebe um desconto de 20%, qual será seu novo preço?",
-    "alternativas": {
-      "A": "R$ 20",
-      "B": "R$ 50",
-      "C": "R$ 80",
-      "D": "R$ 120"
-    },
-    "resposta_correta": "C",
-    "comentario": "Para calcular o novo preço com desconto de 20%: Desconto = 100 × 0,20 = R$ 20. Novo preço = 100 - 20 = R$ 80. Portanto, o novo preço será R$ 80."
-  },
-  {
-    "id": "900615",
-    "disciplina": "Conhecimentos Gerais",
-    "assunto": "Atualidades",
-    "banca": "CESPE",
-    "instituicao": "TJ-DF",
-    "ano": "2023",
-    "cargo": "Técnico Judiciário",
-    "nivel": "Médio",
-    "enunciado": "Qual é o maior país do mundo em extensão territorial?",
-    "alternativas": {
-      "A": "Canadá",
-      "B": "China",
-      "C": "Rússia",
-      "D": "Estados Unidos"
-    },
-    "resposta_correta": "C",
-    "comentario": "A Rússia é o maior país do mundo em extensão territorial, com aproximadamente 17,1 milhões de quilômetros quadrados. Ela se estende por 11 fusos horários diferentes, abrangendo grande parte da Europa e da Ásia."
-  }
-]
+"id": "40",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Interface Humano-Computador",
+"banca": "FGV",
+"instituicao": "Órgão Público",
+"ano": "2026",
+"cargo": "Analista de Sistemas",
+"nivel": "Superior",
+"enunciado": "De acordo com os conceitos introdutórios de Interface Humano-Computador (IHC) apresentados no material, assinale a afirmativa que define corretamente o papel e o impacto da interface com o usuário.",
+"alternativas": {
+"A": "A interface representa o sistema computacional em sua totalidade lógica, ocultando o banco de dados e dispensando a necessidade de estudo do perfil etário do usuário.",
+"B": "É um mecanismo secundário que, embora facilite o diálogo entre programa e máquina, raramente influencia na aceitação ou rejeição de um sistema.",
+"C": "É a parte do sistema visível para o usuário, através da qual ele se comunica; se mal projetada, pode se transformar em um ponto decisivo na rejeição do sistema.",
+"D": "Consiste exclusivamente na parte física do computador (hardware) que transmite as heurísticas do sistema operacional de forma sequencial ao cérebro do usuário."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta conforme a Fonte 483 e 484, que definem a interface como 'a parte do sistema visível para o usuário, através da qual, ele se comunica para realizar suas tarefas' e ressaltam que, 'se mal projetada, pode se transformar em um ponto decisivo na rejeição de um sistema'. A alternativa A contraria a premissa de Shneiderman de estudar o perfil etário (Fonte 494). A alternativa B erra ao dizer que é secundária e raramente influencia. A alternativa D erra ao limitar a interface ao hardware."
+},
+{
+"id": "41",
+"disciplina": "Engenharia de Software",
+"assunto": "Perfil de Usuários em IHC",
+"banca": "CESPE/Cebraspe",
+"instituicao": "Tribunal Regional",
+"ano": "2026",
+"cargo": "Analista Judiciário - TI",
+"nivel": "Superior",
+"enunciado": "A classificação dos usuários é essencial para o projeto de interfaces. Como o material classifica o usuário que possui 'bom conhecimento semântico e sintático' e que 'procura atalhos e modos de abreviação de interação'?",
+"alternativas": {
+"A": "Principiantes.",
+"B": "Instruídos e frequentes.",
+"C": "Instruídos e intermitentes.",
+"D": "Especialistas em heurística avançada."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. Segundo a Fonte 499, 'Instruídos e frequentes: bom conhecimento semântico e sintático, procuram atalhos e modos de abreviação de interação'. Principiantes possuem pouco conhecimento sintático e semântico (Fonte 497). Instruídos e intermitentes têm razoável conhecimento semântico, mas pouca lembrança de informações sintáticas (Fonte 498). A alternativa D não é uma classificação apresentada no documento."
+},
+{
+"id": "42",
+"disciplina": "Ergonomia e Usabilidade",
+"assunto": "Fatores Humanos e Cognição",
+"banca": "FCC",
+"instituicao": "Empresa Estatal",
+"ano": "2026",
+"cargo": "Designer de Interação",
+"nivel": "Superior",
+"enunciado": "Ao tratar da percepção humana, o material explora as funções dos hemisférios cerebrais. Quais características e áreas estão associadas diretamente às funções do lado esquerdo do cérebro?",
+"alternativas": {
+"A": "Emprego da lógica, orientação a detalhes, pensamento prático, linguagem, matemática e ciência.",
+"B": "Uso de sentimentos, percepção espacial, imagens metafóricas, filosofia e religião.",
+"C": "Apresentação de possibilidades impetuosas, pensamento divergente focado no TODO das coisas.",
+"D": "Processamento imaginativo que compreende a função dos objetos baseando-se unicamente na fantasia."
+},
+"resposta_correta": "A",
+"comentario": "A alternativa A está correta pois as Fontes 563 a 576 listam as funções do lado esquerdo do cérebro: 'emprego da lógica, orientado a detalhes, baseado em fatos, palavras e linguagem... Matemáticas e ciência... prático, seguro'. As alternativas B, C e D descrevem explicitamente as características do lado direito do cérebro (Fontes 577 a 591), tais como sentimentos, imagens, filosofia, fantasia e impetuosidade."
+},
+{
+"id": "43",
+"disciplina": "Ergonomia e Usabilidade",
+"assunto": "Fatores Humanos e Cognição",
+"banca": "VUNESP",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Desenvolvedor Front-end",
+"nivel": "Superior",
+"enunciado": "O texto descreve como cada usuário tem uma personalidade única ligada ao seu estilo cognitivo e como o cérebro processa informações. Sobre a comunicação visual e o processamento cerebral, é correto afirmar que:",
+"alternativas": {
+"A": "A comunicação visual apresenta uma característica estritamente linear e sequencial, exigindo o foco isolado em uma parte de cada vez.",
+"B": "O lado esquerdo do cérebro é responsável pela intuição e pelo pensamento abstrato subjetivo associado aos artistas.",
+"C": "Para ler eficientemente, o ser humano utiliza predominantemente o lado direito do cérebro para analisar a linguagem verbal das interfaces gráficas.",
+"D": "A comunicação visual apresenta característica 'paralela' (simultaneidade), e olhos e cérebro processam essas informações com base em tamanho, forma, cor, orientação e movimento."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta. A Fonte 536 afirma textualmente que 'A comunicação visual apresenta característica paralela (simultaneidade)' e a Fonte 535 diz que 'Olhos e cérebro processam informações visuais com base em tamanho, forma, cor, orientação, movimento'. A alternativa A está incorreta pois a comunicação não é linear, mas sim 'paralela'. A alternativa B atribui as qualidades do lado direito (artistas, subjetivo) ao esquerdo (Fonte 551). A alternativa C está incorreta porque a linguagem verbal e o intelecto estão associados ao lado esquerdo (Fonte 544)."
+},
+{
+"id": "44",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Usabilidade",
+"banca": "Instituto Consulplan",
+"instituicao": "Câmara Municipal",
+"ano": "2026",
+"cargo": "Analista de Suporte",
+"nivel": "Médio",
+"enunciado": "A usabilidade de um sistema é definida por uma combinação de várias características centradas no usuário. Segundo o documento, qual conjunto abaixo representa fielmente essas características?",
+"alternativas": {
+"A": "Rapidez na compilação do código, taxa de erros da máquina, interface colorida e padronização do hardware.",
+"B": "Facilidade de aprendizagem, rapidez na execução de tarefas, taxa de erros baixa, satisfação subjetiva do usuário e fidelização ao longo do tempo.",
+"C": "Utilização exclusiva de teclas aceleradoras, multitarefa em janelas, manipulação direta de atalhos e ausência de navegação.",
+"D": "Design estritamente focado no sistema, rejeição a usuários novatos, inércia gráfica nula e complexidade organizacional elevada."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta, pois a definição de usabilidade listada nas Fontes 597 a 603 inclui exatamente: 'facilidade de aprendizagem; rapidez na execução de tarefas; taxa de erros baixa; satisfação subjetiva do usuário; fidelização ao longo do tempo'. As demais alternativas inventam conceitos ou contrariam o texto, como a alternativa D que sugere design focado no sistema, quando as diretrizes recomendam o design centrado no usuário (Fonte 605)."
+},
+{
+"id": "45",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Design de Interação",
+"banca": "CEBRASPE",
+"instituicao": "Órgão Público",
+"ano": "2026",
+"cargo": "Analista de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "As linhas de orientação do design de interação trazem práticas recomendadas para a interface. No que tange às operações e controle do usuário, assinale a recomendação expressa no material.",
+"alternativas": {
+"A": "O sistema deve assumir o controle total, inibindo a familiarização do usuário para evitar manipulações acidentais em campos sensíveis.",
+"B": "Deve-se abolir o uso de macros e teclas aceleradoras, pois estas prejudicam a curva de aprendizagem de usuários principiantes.",
+"C": "As ações do usuário devem ser facilmente reversíveis, recomendando-se a existência de um comando de desfazer ('undo') e a possibilidade de navegar através do sistema.",
+"D": "A inércia na visualização deve ser eliminada completamente para garantir que a tela seja redesenhada sem nenhuma complexidade aparente a cada clique."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta, fundamentada nas Fontes 621 e 622, que dizem: 'As ações do usuário devem ser facilmente reversíveis: Existência de um comando undo; Possibilidade de navegar através do sistema'. A alternativa A contraria a Fonte 618 ('Manter o controle do lado do usuário'). A alternativa B está incorreta pois a Fonte 615 orienta exatamente a 'Otimizar as operações realizadas pelo usuário: teclas aceleradoras... macros'. A alternativa D está errada pois a diretriz manda 'Manter inércia na visualização' (Fonte 623)."
+},
+{
+"id": "46",
+"disciplina": "Engenharia de Software",
+"assunto": "Estilos de Interação",
+"banca": "AOCP",
+"instituicao": "Polícia Científica",
+"ano": "2026",
+"cargo": "Perito Criminal - Computação",
+"nivel": "Superior",
+"enunciado": "Entre os estilos de interação Homem-Máquina, destaca-se o WYSIWYG. Qual a definição desse estilo e uma desvantagem atrelada a ele descrita no material?",
+"alternativas": {
+"A": "Significa 'What You See Is What You Get', em que a imagem da interface é a mesma que a aplicação cria; sua desvantagem é ser um estilo restrito, visto que existem aplicações que não conseguem ser implementadas nele.",
+"B": "Refere-se ao modelo Windows, Icons, Menus and Pointers; sua desvantagem é depender exclusivamente da digitação constante de linhas de comando para sua ativação.",
+"C": "É um framework voltado exclusivamente para preenchimento de formulários; sua desvantagem é apresentar uma diferença brutal entre a tela e a impressão de documentos.",
+"D": "Significa 'What You Say Is What You Get', um tipo de interface por linguagem natural; sua principal falha é a fobia de teclado que causa em usuários instruídos."
+},
+"resposta_correta": "A",
+"comentario": "A alternativa A está correta. A Fonte 680 define a sigla como 'What You See Is What You Get', indicando que 'A imagem de manipulação da interface é a mesma que a aplicação cria' (Fonte 681). Suas desvantagens (Fonte 684) incluem o fato de que 'Existem aplicações que não conseguem ser implementadas neste estilo (estilo restrito)'. A alternativa B confunde com WIMP (Fonte 686). A alternativa C erra pois a tela diferir da impressão é uma característica do 'estilo NÃO WYSIWYG'. A alternativa D inventa uma tradução falsa (Say)."
+},
+{
+"id": "47",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Estilos de Interação",
+"banca": "IBAM",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Técnico em Informática",
+"nivel": "Médio",
+"enunciado": "O estilo de interação conhecido pela sigla WIMP pode ser considerado tanto um estilo isolado quanto um framework de interface. O que a sigla WIMP significa e em qual tecnologia ela se apoia fortemente?",
+"alternativas": {
+"A": "Work, Image, Macro, Print; apoiado em impressoras e drivers não-gráficos.",
+"B": "Web, Interface, Mobile, Processing; apoiado em Inteligência Artificial e heurísticas cognitivas intermitentes.",
+"C": "Word, Interaction, Model, Presentation; apoiado por Sistemas Operacionais baseados em texto e comandos de shell.",
+"D": "Windows, Icons, Menus and Pointers; apoiado pela tecnologia de interfaces gráficas (GUI) utilizando componentes denominados widgets."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta, sendo embasada nas Fontes 686 ('Windows, Icons, Menus and Pointers (WIMP)'), 687 ('Permite a interação através de componentes de interação virtuais denominados widgets') e 689 ('apoiado pela tecnologia de interfaces gráficas (GUI)'). As alternativas A, B e C apresentam expansões incorretas para a sigla e pressupostos técnicos falsos segundo o material estudado."
+},
+{
+"id": "48",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Estilos de Interação",
+"banca": "FGV",
+"instituicao": "Tribunal de Justiça",
+"ano": "2026",
+"cargo": "Analista Judiciário - Sistemas",
+"nivel": "Superior",
+"enunciado": "Diferentes componentes de interação resolvem problemas distintos para os usuários. Conforme o material instrucional, por que o uso de ícones, scrolling e botões é vantajoso para a interação homem-máquina?",
+"alternativas": {
+"A": "Porque estruturam a informação hierarquicamente, garantindo que usuários principiantes não consigam utilizar atalhos prejudiciais ao sistema.",
+"B": "Porque eliminam completamente a necessidade de monitores WIMP de terceira geração, forçando o aprendizado sintático do lado esquerdo do cérebro.",
+"C": "Porque reduzem a quantidade de digitação, eliminam a fobia de teclado e admitem usuários não muito amigos da digitação.",
+"D": "Porque são a base fundamental da linguagem de comandos natural (What You See Is What You Get), focados no preenchimento de formulários e caixas de diálogo."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está perfeitamente alinhada à Fonte 693, que afirma sobre 'ícones, scrolling, botões: reduzem a quantidade de digitação (eliminam fobia de teclado, admitem usuários não muito amigos da digitação)'. A alternativa A confunde com menus pull-down, que organizam hierarquicamente (Fonte 692). A alternativa B mistura conceitos sem sentido de gerações e cérebro. A alternativa D confunde linguagem natural e o significado da sigla WYSIWYG."
+},
+{
+"id": "49",
+"disciplina": "Engenharia de Software",
+"assunto": "Evolução das Interfaces",
+"banca": "CESPE/Cebraspe",
+"instituicao": "Órgão Federal",
+"ano": "2026",
+"cargo": "Desenvolvedor de Software",
+"nivel": "Superior",
+"enunciado": "A evolução das interfaces computacionais passou por diversas fases até chegar à chamada 'Terceira Geração'. Qual a principal característica atrelada a esta geração, de acordo com as informações presentes no PDF?",
+"alternativas": {
+"A": "A popularização irrestrita de formulários em terminais textuais puramente analíticos e de resposta lenta (single-task).",
+"B": "A utilização de janelas, permitindo que tipos diferentes de informação sejam exibidas simultaneamente e o conceito de multitarefa na visão do usuário.",
+"C": "A transição do uso exclusivo da percepção espacial do lado direito do cérebro para ferramentas voltadas inteiramente à linguagem orientada a detalhes (menus pull-down puros).",
+"D": "A adoção das linguagens naturais não-gráficas como a única fonte viável de entrada (input), suplantando os estilos clássicos WYSIWYG."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. O material expõe na Fonte 717 a 720 que a 'Terceira geração' envolve a 'utilização de: janelas: tipos diferentes de informação podem ser exibidas simultaneamente e sem frustração' e 'multitarefa (fazer várias coisas ao mesmo tempo, na visão do usuário)'. A alternativa A erra por falar de terminal puramente textual. A alternativa C inventa limitações cerebrais relacionadas às gerações. A alternativa D está errada pois a terceira geração foca em gráficos (janelas) e não suplantou o gráfico em favor do texto natural."
+},
+{
+"id": "50",
+"disciplina": "Ergonomia e Usabilidade",
+"assunto": "Avaliação de Interface",
+"banca": "FCC",
+"instituicao": "Tribunal de Contas",
+"ano": "2026",
+"cargo": "Auditor de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "Para aferir a eficácia de uma interface, o Formulário de Julgamento de Qualidade da Interface (Rating), desenvolvido por Reeves, estipula critérios opostos para medição. Dentre as opções abaixo, qual representa um par válido (extremos de avaliação) estipulado por este formulário?",
+"alternativas": {
+"A": "Carga Cognitiva: Confusa vs. Intuitiva.",
+"B": "Estética: Poderosa vs. Incompatível.",
+"C": "Navegação: Disfuncional vs. Altamente Funcional.",
+"D": "Apresentação de Informação: Desagradável vs. Agradável."
+},
+"resposta_correta": "A",
+"comentario": "A alternativa A está correta. A Fonte 743 atesta o critério: 'Carga Cognitiva: Confusa (Fonte 743) / Intuitiva (Fonte 746)'. A alternativa B mistura Estética (que é Desagradável/Agradável - Fontes 761, 759) com Mapeamento (Nenhum/Poderoso) ou Compatibilidade. A alternativa C relaciona os valores de Funcionalidade Geral (Disfuncional/Altamente Funcional - Fontes 762, 763) erroneamente ao critério Navegação (Difícil/Fácil - Fontes 742, 745). A alternativa D relaciona valores de Estética ao critério Apresentação Informação (que possui os extremos Obtusa/Clara - Fontes 755, 757)."
+},
+{
+"id": "51",
+"disciplina": "Ergonomia e Usabilidade",
+"assunto": "Avaliação de Interface",
+"banca": "VUNESP",
+"instituicao": "Empresa de Processamento de Dados",
+"ano": "2026",
+"cargo": "Analista de Qualidade e Testes",
+"nivel": "Superior",
+"enunciado": "Em relação à aplicação do Formulário de Julgamento de Qualidade da Interface (Rating), o documento aponta uma restrição essencial sobre quem deve participar da avaliação. Qual é essa restrição metodológica?",
+"alternativas": {
+"A": "O formulário deve ser aplicado somente por engenheiros de software seniores, evitando o contato de usuários leigos com versões beta.",
+"B": "Deve-se realizar a avaliação exclusivamente com usuários classificados como 'instruídos e intermitentes', pois detêm equilíbrio entre sintaxe e semântica.",
+"C": "Todos os critérios listados são obrigatórios em absolutamente todo tipo de software, portanto, a avaliação não possui restrição de perfil, mas sim de abrangência.",
+"D": "Não se deve fazer esta avaliação com usuários novatos em softwares interativos."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta, refletindo com precisão o que está contido na Fonte 737: 'Não se deve fazer esta avaliação com usuários novatos em software interativos'. A alternativa A restringe incorretamente aos engenheiros de software, sem base no texto. A alternativa B exige classificação que não está vinculada a essa restrição específica no documento. A alternativa C está incorreta pois a Fonte 736 afirma justamente o oposto: 'Nem todos os critérios são relevantes em todo tipo de software'."
+},
+{
+"id": "52",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Projeto de IHC",
+"banca": "CEBRASPE",
+"instituicao": "Ministério Público",
+"ano": "2026",
+"cargo": "Técnico Especializado em TI",
+"nivel": "Superior",
+"enunciado": "A respeito das diretrizes iniciais de um projeto de software descritas no material (segundo Shneiderman), qual é a primeira ação fundamental que todo projeto deve adotar ao se planejar a interface?",
+"alternativas": {
+"A": "Aprovar os fundos orçamentários baseando-se unicamente nas metas organizacionais de negócios estabelecidas pelo lado esquerdo do cérebro.",
+"B": "Iniciar-se com um entendimento dos usuários a que se destina, inclusive analisando perfis como idade, sexo, capacidades físicas, educação e background cultural.",
+"C": "Investir imediatamente na construção de protótipos de alta fidelidade sem consulta prévia, utilizando ferramentas exclusivas para WYSIWYG.",
+"D": "Ignorar a satisfação subjetiva e a personalidade do indivíduo a fim de manter inércia e foco exclusivo no processamento de banco de dados."
+},
+"resposta_correta": "B",
+"comentario": "A correta é a B. De acordo com a citação de Scnheiderman presente na Fonte 494: 'todo projeto deve iniciar-se com um entendimento dos usuários a que se destina, inclusive perfis de sua idade, sexo, capacidades físicas, educação, background cultural ou étnico, motivação, metas e personalidade'. As demais opções ignoram o papel do usuário no planejamento e ferem os princípios fundamentais da IHC destacados no documento."
+},
+{
+"id": "53",
+"disciplina": "Ergonomia e Usabilidade",
+"assunto": "Fatores Humanos e Cognição",
+"banca": "AOCP",
+"instituicao": "Secretaria de Fazenda",
+"ano": "2026",
+"cargo": "Auditor Fiscal - Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "No estudo da cognição e das limitações humanas voltadas à IHC, define-se no texto o significado de 'cognição'. Qual é a definição exata atribuída a este termo no material fornecido?",
+"alternativas": {
+"A": "É a arte de converter imagens icônicas em linguagem sintática (macros).",
+"B": "É a medida de retenção fotográfica operada pela visão paralela simultânea.",
+"C": "É a capacidade de adquirir e processar conhecimento.",
+"D": "É o pensamento divergente e não linear, concentrado unicamente no 'todo' metafórico das coisas."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta conforme a Fonte 528: 'estilo cognitivo (cognição: capacidade de adquirir e processar conhecimento)'. A alternativa A e B são invenções tecnológicas. A alternativa D descreve características do pensamento ligado ao hemisfério direito do cérebro (Fonte 551), não a definição global de cognição fornecida no slide inicial."
+},
+{
+"id": "54",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Projeto de IHC",
+"banca": "Instituto Consulplan",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Analista de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "O 'Projeto de Interface Humano-Computador' abrange um conjunto crítico de processos e decisões estruturais. De acordo com o documento, quais das seguintes questões ou etapas fazem parte diretamente das preocupações do projeto da interface?",
+"alternativas": {
+"A": "Delinear as tarefas orientadas ao computador e ao ser humano, definir as ferramentas para protótipos, implementar o modelo e avaliar a qualidade do resultado.",
+"B": "Desenvolver exclusivamente os drivers de teclado, eliminando o scrolling e forçando a padronização WYSIWYG em aplicações de engenharia civil.",
+"C": "Priorizar o ensino do lado direito do cérebro dos programadores para que possam elaborar estilos de interação restritos sem uso de formulários.",
+"D": "Adotar cegamente o framework WIMP, anulando menus pull-down e removendo toda e qualquer tecla aceleradora visando uma redução de bugs no backend."
+},
+"resposta_correta": "A",
+"comentario": "A alternativa A é a correta. O slide sobre 'Projeto de Interface Humano-Computador. No que concerne?' (Fontes 727 a 732) lista os seguintes itens: 'delinear as tarefas orientadas ao computador e ao ser humano'; 'questões do projeto que interagem com o projeto da interface'; 'quais ferramentas utilizar para construir protótipos?'; 'implementar um modelo'; 'avaliar o resultado final em termos de qualidade'. As demais opções citam bizarramente recortes desconexos do documento, contrariando boas práticas descritas em outros slides."
+},
+{
+"id": "55",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Interface Humano-Computador",
+"banca": "CEBRASPE",
+"instituicao": "Órgão Público",
+"ano": "2026",
+"cargo": "Analista de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "O material conceitua a Interface com o Usuário (IU) como uma parte fundamental de um software. Com base nesse conceito primário, assinale a alternativa que reflete corretamente o impacto que a interface gera na relação entre o usuário e o sistema.",
+"alternativas": {
+"A": "É um componente estritamente restrito ao processamento lógico em background, que raramente afeta a aceitação ou avaliação geral do sistema pelo usuário.",
+"B": "Trata-se da camada invisível do sistema operacional, responsável por traduzir comandos visuais para o hardware sem a percepção do operador humano.",
+"C": "Pode se tornar uma fonte de motivação ou, alternativamente, se for mal projetada, pode se transformar em um ponto decisivo na rejeição total do sistema.",
+"D": "Representa exclusivamente o modelo de automação de escritórios e independe de fatores humanos, isolando as funções de processamento da experiência visual."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta conforme a Fonte 484, que define que a interface 'Pode se tornar uma fonte de motivação e até (...) uma grande ferramenta para o usuário, ou então, se mal projetada, pode se transformar em um ponto decisivo na rejeição de um sistema'. As demais alternativas contrariam as diretrizes de IHC, desconsiderando a visibilidade da interface e o seu impacto na aceitação do produto."
+},
+{
+"id": "56",
+"disciplina": "Ergonomia e Usabilidade",
+"assunto": "Perfil de Usuários em IHC",
+"banca": "FGV",
+"instituicao": "Tribunal de Contas",
+"ano": "2026",
+"cargo": "Auditor de TI",
+"nivel": "Superior",
+"enunciado": "Na classificação dos tipos de usuário para projetos de IHC, como são caracterizados tecnicamente os usuários definidos como 'Principiantes' no que diz respeito ao seu conhecimento sobre o sistema?",
+"alternativas": {
+"A": "Possuem bom conhecimento semântico e sintático, procurando sempre atalhos e modos de abreviação para agilizar a interação diária.",
+"B": "Apresentam razoável conhecimento semântico a respeito do domínio, mas detêm pouca lembrança de informações sintáticas de como usar a interface.",
+"C": "Demonstram alta proficiência e destreza na mecânica da interação, mas ignoram completamente o significado das metas e dos processos de negócio da aplicação.",
+"D": "Possuem pouco conhecimento sintático (relativo à mecânica da interação) e pouco conhecimento semântico (referente ao significado das metas e objetivos da aplicação)."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta com base na Fonte 497, que descreve explicitamente os Principiantes como tendo 'pouco conhecimento sintático (mecânica da interação para utilizar a interface de forma eficiente) e semântico (significado das metas e objetivos da aplicação)'. A alternativa A descreve os usuários 'Instruídos e frequentes' (Fonte 499). A alternativa B descreve os usuários 'Instruídos e intermitentes' (Fonte 498)."
+},
+{
+"id": "57",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Fatores Humanos e Cognição",
+"banca": "FCC",
+"instituicao": "Ministério Público",
+"ano": "2026",
+"cargo": "Analista de Sistemas",
+"nivel": "Superior",
+"enunciado": "Ao abordar o processamento de informações e a cognição humana, o documento diferencia as funções dos hemisférios cerebrais. Quais características estão diretamente e exclusivamente associadas ao lado direito do cérebro?",
+"alternativas": {
+"A": "Emprego primário da lógica, orientação a detalhes, pensamento convergente e conhecimento baseado em fatos concretos e palavras.",
+"B": "Pensamento divergente, uso predominante de sentimentos, percepção espacial, abstração metafórica e foco no todo das coisas.",
+"C": "Reconhecimento de modelos lineares, processamento de fórmulas matemáticas, ciências e conhecimento baseado estritamente na realidade prática.",
+"D": "Pensamento vertical, direto, realista, calculista e direcionado exclusivamente à linguagem sintática sequencial e objetiva."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. O material elenca as características do lado direito do cérebro nas Fontes 550, 551, 552 e 577 a 591: intuição, pensamento divergente, imaginativo, metafórico, não-linear, subjetivo, concentra-se no TODO, uso de sentimentos, percepção espacial, etc. As alternativas A, C e D descrevem, na verdade, as características listadas para o lado esquerdo do cérebro (Fontes 544, 547 e 563 a 576)."
+},
+{
+"id": "58",
+"disciplina": "Engenharia de Software",
+"assunto": "Usabilidade",
+"banca": "VUNESP",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Arquiteto de Software",
+"nivel": "Superior",
+"enunciado": "O conceito central de usabilidade é definido no material como uma combinação de várias características métricas e perceptivas centradas no usuário. Qual das alternativas lista com precisão e integralmente essas características?",
+"alternativas": {
+"A": "Inércia absoluta na visualização gráfica, uso intenso e obrigatório de macros, eliminação de menus aninhados e foco total na redução do processamento em lote.",
+"B": "Estética agradável, integração coordenada de mídias pesadas, mapeamento espacial poderoso e funcionalidade geral voltada para usuários de automação corporativa.",
+"C": "Facilidade de aprendizagem, rapidez na execução de tarefas, taxa de erros baixa, satisfação subjetiva do usuário e fidelização ao longo do tempo.",
+"D": "Otimização puramente sistêmica de operações, uso generalizado de teclas aceleradoras, multitarefa intermitente e controle mantido de forma velada pelo back-end."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está perfeitamente alinhada ao material, que lista em 'Definições de usabilidade' (Fontes 597 a 603) exatamente os seguintes tópicos: facilidade de aprendizagem, rapidez na execução de tarefas, taxa de erros baixa, satisfação subjetiva do usuário, e fidelização ao longo do tempo. As demais alternativas misturam diretrizes de design, avaliação de formulários (Rating) ou inventam conceitos não aplicáveis à definição estrutural de usabilidade."
+},
+{
+"id": "59",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Estilos de Interação",
+"banca": "Instituto Consulplan",
+"instituicao": "Câmara Municipal",
+"ano": "2026",
+"cargo": "Analista Desenvolvedor",
+"nivel": "Superior",
+"enunciado": "Os diferentes estilos de interação homem-máquina trazem componentes virtuais e widgets que oferecem vantagens específicas. Segundo o documento, qual é a principal utilidade e o diferencial proporcionado pelo uso de menus pull-down?",
+"alternativas": {
+"A": "Eles reduzem significativamente a quantidade de digitação, sendo projetados para eliminar a fobia de teclado de usuários novatos ao exibir apenas botões sem texto.",
+"B": "Eles garantem a inércia da visualização do sistema, impedindo ativamente que tipos diferentes de informações conflitantes sejam exibidos simultaneamente em multitarefa.",
+"C": "Eles substituem a necessidade de janelas e de hardware gráfico (WIMP), centralizando todas as operações em uma única barra de comandos processada via linguagem natural.",
+"D": "Eles possibilitam a execução de tarefas de diálogo mais facilmente através de uma organização hierárquica, permitindo que o usuário vá diretamente na opção desejada."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta, embasada diretamente na Fonte 692, que afirma que os menus pull-down 'possibilitam a execução de tarefas de diálogo mais facilmente (organização hierárquica, vou na opção diretamente)'. A alternativa A refere-se às vantagens dos 'ícones, scrolling, botões' (Fonte 693). As alternativas B e C inventam falsas funcionalidades incompatíveis com as diretrizes e a estrutura dos menus pull-down no modelo GUI/WIMP."
+},
+{
+"id": "60",
+"disciplina": "Ergonomia e Usabilidade",
+"assunto": "Avaliação de Interface",
+"banca": "AOCP",
+"instituicao": "Secretaria Estadual de Saúde",
+"ano": "2026",
+"cargo": "Técnico de Suporte em Informática",
+"nivel": "Médio",
+"enunciado": "O 'Formulário de Julgamento de Qualidade da Interface (Rating)', desenvolvido por Reeves e adotado por Campos, estabelece pares de critérios com extremos de avaliação opostos. Qual alternativa apresenta de forma correta e exata a associação de um critério aos seus respectivos extremos estabelecidos no formulário?",
+"alternativas": {
+"A": "Estética da Interface: Confusa (pior cenário) x Intuitiva (melhor cenário).",
+"B": "Mapeamento: Nenhum (pior cenário) x Poderoso (melhor cenário).",
+"C": "Desenho de Tela: Disfuncional (pior cenário) x Altamente Funcional (melhor cenário).",
+"D": "Carga Cognitiva: Desagradável (pior cenário) x Agradável (melhor cenário)."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a única correta. O material indica os extremos do critério 'Mapeamento' como 'Nenhum' (Fonte 750) e 'Poderoso' (Fonte 747). A alternativa A confunde os extremos da 'Carga Cognitiva' (Confusa/Intuitiva) aplicando-os erroneamente à 'Estética'. A alternativa C usa os extremos da 'Funcionalidade Geral' (Disfuncional/Altamente funcional) para o 'Desenho de Tela' (cujos extremos são Viola/Segue Princípios). A alternativa D atribui os extremos da 'Estética' (Desagradável/Agradável) ao critério de 'Carga Cognitiva'."
+},
+{
+"id": "61",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Design de Interação",
+"banca": "IBAM",
+"instituicao": "Empresa Pública de TI",
+"ano": "2026",
+"cargo": "Analista de Negócios TI",
+"nivel": "Superior",
+"enunciado": "O projeto de interfaces exige o cumprimento de certas diretrizes conhecidas como 'Linhas de orientação do design de interação'. Qual das seguintes condutas metodológicas é expressamente recomendada pelo material como boa prática?",
+"alternativas": {
+"A": "O design da interface deve ser centrado estritamente na capacidade de processamento do sistema, evitando ao máximo o envolvimento precoce do usuário para não comprometer os prazos.",
+"B": "Deve-se garantir que as ações executadas pelo usuário sejam irreversíveis de forma padrão para manter a integridade do banco de dados, desencorajando o uso de comandos de 'undo'.",
+"C": "Recomenda-se envolver ativamente os usuários no projeto através de entrevistas, observação do seu modo de trabalhar, levantamento e análise de perfil, tarefas e fluxo de informação.",
+"D": "O controle de execução deve ser transferido do usuário para macros sistêmicas independentes (do lado do sistema), desabilitando atalhos e teclas de função complexas."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C reflete fielmente as diretrizes apontadas nas Fontes 607 a 612: 'Envolver os usuários no projeto: entrevistas aos usuário; observação dos usuário a trabalhar; análise do perfil dos usuário; análise de tarefas; análise do fluxo de informação'. A alternativa A contraria o princípio primordial de 'Praticar o design de interfaces centrado no usuário (e não no sistema)' (Fontes 605/606). A alternativa B ofende o princípio de que 'As ações do usuário devem ser facilmente reversíveis: Existência de um comando undo' (Fontes 621/622). A alternativa D contraria 'Manter o controle do lado do usuário' (Fonte 618)."
+},
+{
+"id": "62",
+"disciplina": "Engenharia de Software",
+"assunto": "Estilos de Interação",
+"banca": "CEBRASPE",
+"instituicao": "Órgão Federal",
+"ano": "2026",
+"cargo": "Engenheiro de Dados",
+"nivel": "Superior",
+"enunciado": "O estilo de interação computacional conhecido pela sigla WYSIWYG (What You See Is What You Get) se tornou um padrão em processadores de texto e diversas interfaces. Conforme o material, além de suas vantagens inerentes, qual é a principal característica limitante ou desvantagem atrelada especificamente a este estilo?",
+"alternativas": {
+"A": "Trata-se de um estilo altamente restrito, dado o fato irrefutável de que existem certas aplicações que não conseguem ser implementadas seguindo esse paradigma.",
+"B": "A imagem gerada e trabalhada ativamente na tela difere de forma substancial da impressão final do documento, provocando alto índice de rejeição em escritórios.",
+"C": "A sua tecnologia base depende exclusivamente de linguagens naturais não gráficas, limitando o uso para principiantes desprovidos de conhecimentos sintáticos apurados.",
+"D": "Esse estilo anula a utilização do framework WIMP, obrigando a conversão de todos os menus e ícones gráficos para linhas sequenciais baseadas em comandos Unix."
+},
+"resposta_correta": "A",
+"comentario": "A correta é a alternativa A. Nas desvantagens apontadas na Fonte 684, destaca-se que 'Existem aplicações que não conseguem ser implementadas neste estilo (estilo restrito)'. A alternativa B aponta o oposto da verdade; a tela diferir da impressão é uma desvantagem listada para estilos NÃO WYSIWYG (Fonte 684) - no WYSIWYG a imagem manipulada é a mesma que é gerada. As alternativas C e D misturam conceitos técnicos avulsos de linguagens naturais e comandos, o que nada tem a ver com a restrição do WYSIWYG."
+},
+{
+"id": "63",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Projeto de IHC",
+"banca": "FCC",
+"instituicao": "Tribunal de Justiça",
+"ano": "2026",
+"cargo": "Analista Judiciário - Sistemas",
+"nivel": "Superior",
+"enunciado": "A modelagem e o planejamento inicial da interação humano-computador são cruciais para a usabilidade e adoção do sistema. Com base nas premissas de Scnheiderman trazidas no documento, qual é a exigência primordial para o início do projeto no que se refere ao 'Modelo de usuário'?",
+"alternativas": {
+"A": "Deve haver uma farta formulação imediata de protótipos em terceira dimensão (3D), fundamentando-se somente no conhecimento pragmático de usuários peritos, visando otimizar prazos.",
+"B": "O projeto deve iniciar a prototipação apenas através da implementação do hardware WIMP e de teclados adaptados que reprimam e reduzam a carga estritamente do lado direito do cérebro.",
+"C": "O projeto deve se eximir da coleta de dados pessoais, dispensando análises de cultura, motivações e personalidade a fim de respeitar os princípios paralelos do design neutro focado unicamente na máquina.",
+"D": "Todo projeto deve iniciar-se impreterivelmente com um entendimento profundo dos usuários a que se destina, abarcando perfis sobre idade, sexo, capacidades físicas, educação, cultura, motivação e personalidade."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta por refletir a citação direta de Scnheiderman, presente na Fonte 494: 'todo projeto deve iniciar-se com um entendimento dos usuários a que se destina, inclusive perfis de sua idade, sexo, capacidades físicas, educação, background cultural ou étnico, motivação, metas e personalidade'. As alternativas A, B e C oferecem recomendações inteiramente conflitantes com o princípio de design centrado no usuário estabelecido no documento, privilegiando hardware ou abordagens excludentes."
+},
+{
+"id": "64",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Evolução das Interfaces",
+"banca": "FGV",
+"instituicao": "Empresa Estadual",
+"ano": "2026",
+"cargo": "Designer Gráfico / UX",
+"nivel": "Superior",
+"enunciado": "A evolução tecnológica propiciou saltos geracionais nos recursos apresentados aos usuários nas interfaces computacionais. De acordo com o documento em tela, quais elementos fundamentais marcaram e caracterizam o que é chamado de 'Terceira geração' de interfaces?",
+"alternativas": {
+"A": "O preenchimento ríspido de formulários textuais em lote aliada ao uso exclusivo e central de macros acionadas por sequências do teclado.",
+"B": "A transição definitiva para linguagens naturais controladas por comandos de voz, resultando na eliminação e obsolescência total da interação via telas gráficas.",
+"C": "A adoção ampla e sistemática de linguagens de comando de baixo nível alinhada a diretrizes restritas ao terminal estilo prompt.",
+"D": "A utilização de janelas, permitindo a exibição simultânea e organizada de diferentes tipos de informações, associada intrinsecamente ao conceito operacional de multitarefa."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está rigorosamente correta conforme as Fontes 717 a 720, que atestam sobre a 'Terceira geração: utilização de: janelas (tipos diferentes de informação podem ser exibidas simultaneamente e sem frustração); multitarefa (fazer várias coisas ao mesmo tempo, na visão do usuário)'. As alternativas A, B e C se referem equivocadamente a estágios anteriores, ao estilo de linha de comando ou a tecnologias que escapam à definição visual e conceitual atrelada à terceira geração."
+},
+    {
+"id": "65",
+"disciplina": "Engenharia de Software",
+"assunto": "Qualidade de Software - Histórico",
+"banca": "FGV",
+"instituicao": "Órgão Público",
+"ano": "2026",
+"cargo": "Analista de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "O modelo de gestão focado na Qualidade possui raízes históricas específicas. De acordo com o material, onde e quando o Programa de Qualidade teve o seu início e quem foi o responsável por disseminar essa filosofia na indústria local?",
+"alternativas": {
+"A": "Iniciou-se nos Estados Unidos na década de 1980, conduzido pelo SEI (Software Engineering Institute) para fins de defesa militar.",
+"B": "Teve seu início no Japão do pós-guerra, por volta de 1950, a partir das ideias levadas pelo estatístico americano Deming, impulsionando a exportação de produtos japoneses.",
+"C": "Surgiu na Europa durante a concepção das normas ISO na década de 1990, liderado por um consórcio de países membros do ISTQB.",
+"D": "Originou-se no Brasil através da fundação da ALATS no ano de 2002, focando inicialmente apenas nas fábricas de software estatais."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B está correta conforme as Fontes 827 e 828, que relatam que 'A Qualidade, como Programa de Gestão, teve seu início no Japão do pós-guerra' e que 'Deming, estatístico americano, levou a filosofia do programa a indústria japonesa em 1950'. As demais alternativas citam organizações, datas e locais incorretos (SEI é de 1980, ISTQB de 2002, ALATS de 2002, mas nenhuma fundou o movimento inicial da qualidade industrial)."
+},
+{
+"id": "66",
+"disciplina": "Engenharia de Software",
+"assunto": "Terminologia de Testes",
+"banca": "CESPE/Cebraspe",
+"instituicao": "Tribunal de Contas",
+"ano": "2026",
+"cargo": "Auditor de TI",
+"nivel": "Superior",
+"enunciado": "É imperativo distinguir os conceitos técnicos fundamentais na área de testes. Conforme o material apresentado e a padronização do IEEE, assinale a alternativa que define corretamente os termos 'Falha' e 'Defeito'.",
+"alternativas": {
+"A": "A Falha é uma ação humana que produz código incorreto, enquanto o Defeito é qualquer estado intermediário inesperado gerado pelo hardware.",
+"B": "A Falha é o evento em que o sistema atende aos requisitos porém de forma ineficiente, e o Defeito é a recusa de aceite por parte do cliente final.",
+"C": "Falha é o afastamento dos resultados externos da operação do programa em relação aos requisitos; Defeito é uma imperfeição dentro do programa que causa uma falha quando executada.",
+"D": "O Defeito é um evento notável perceptível exclusivamente pelo usuário na interface, ao passo que a Falha é um erro silencioso no banco de dados."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta. A Fonte 892 define: 'Falha é o afastamento dos resultados externos da operação do programa dos requisitos'. A Fonte 893 define: 'Defeito é uma imperfeição dentro do programa que quando executada sob condições particulares, causa uma falha'. A alternativa A confunde com 'Engano' (Fonte 1155). As alternativas B e D são definições fictícias ou conceitualmente invertidas segundo o padrão IEEE citado no documento."
+},
+{
+"id": "67",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Ações de Controle de Qualidade",
+"banca": "FCC",
+"instituicao": "Empresa Estatal",
+"ano": "2026",
+"cargo": "Analista de Sistemas",
+"nivel": "Superior",
+"enunciado": "O Controle de Qualidade (C.Q.) adota diferentes ações operacionais. Dentre elas, destacam-se a Verificação e a Validação. Segundo o documento, qual é a definição exata de Validação?",
+"alternativas": {
+"A": "É o exame sistemático do código-fonte para argumentação formal em busca de certificação ISO.",
+"B": "É a avaliação do resultado quanto a interfaces e às necessidades e expectativas do usuário.",
+"C": "É a avaliação do resultado restrita à qualidade interna, como acabamento, normas e padrões de codificação.",
+"D": "É a experimentação técnica executada apenas por agressores voluntários para testar a resiliência a fraudes."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. A Fonte 873 define Validação explicitamente como: '(avaliação do resultado quanto a interfaces e às necessidades e expectativas do usuário)'. A alternativa A descreve vagamente Certificação e Inspeção (Fontes 869 e 870). A alternativa C é a exata definição de Verificação (Fonte 872). A alternativa D é uma associação incorreta ao conceito de agressores (Fonte 890)."
+},
+{
+"id": "68",
+"disciplina": "Engenharia de Software",
+"assunto": "Características do Software",
+"banca": "VUNESP",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Desenvolvedor de Software",
+"nivel": "Superior",
+"enunciado": "O produto de software apresenta características peculiares que o diferenciam de produtos manufaturados e do hardware tradicional. Qual das afirmações abaixo reflete uma característica inerente ao software citada no texto?",
+"alternativas": {
+"A": "Software possui produção em série, garantindo baixo custo no projeto por causa da replicação de componentes físicos.",
+"B": "O software é um produto visível cujas representações em grafos e diagramas são matematicamente exatas e perfeitamente precisas na Engenharia de Software madura.",
+"C": "Os softwares desgastam-se fisicamente com o uso contínuo ao longo do tempo, necessitando de substituição preventiva.",
+"D": "Software não se desgasta e nem se modifica fisicamente com o uso; seu custo concentra-se na fase de projeto e desenvolvimento, pois não há produção em série."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta. As Fontes 881 e 882 afirmam categoricamente que 'Software não têm produção em série. Seu custo está no projeto e desenvolvimento' e 'Software não se desgasta e nem se modifica com o uso'. A alternativa A afirma o oposto. A alternativa B está incorreta pois a Fonte 883 diz que o software é 'invisível. Sua representação em grafos e diagramas não é precisa'. A alternativa C está incorreta pois afirma desgaste, negado pela Fonte 882."
+},
+{
+"id": "69",
+"disciplina": "Segurança e Qualidade",
+"assunto": "Elementos Indesejáveis",
+"banca": "Instituto Consulplan",
+"instituicao": "Câmara Municipal",
+"ano": "2026",
+"cargo": "Analista de Suporte",
+"nivel": "Médio",
+"enunciado": "No contexto da operação de sistemas, o material identifica três tipos de 'elementos indesejáveis'. Como são descritos os chamados 'Agressores Involuntários'?",
+"alternativas": {
+"A": "São elementos que conscientemente danificam o sistema objetivando fraudar processos e sabotar as regras de bom uso.",
+"B": "São os próprios sistemas que possuem falhas arquiteturais capazes de danificar de forma autônoma o seu contexto operacional.",
+"C": "São elementos que inconscientemente danificam e/ou fazem uso indevido do sistema por não terem recebido o treinamento necessário para operá-lo.",
+"D": "São mecanismos de certificação automatizada que geram sobrecarga (estresse) no servidor, corrompendo a base de dados de forma autônoma."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta conforme a definição da Fonte 889, que descreve os Agressores Involuntários como 'elementos que inconscientemente danificam e/ou fazem uso indevido do sistema por não ter recebido o treinamento necessário'. A alternativa A descreve os Agressores Voluntários (Fonte 890). A alternativa B descreve os 'Sistemas com Falhas' (Fonte 890). A alternativa D é uma construção incorreta."
+},
+{
+"id": "70",
+"disciplina": "Governança de TI",
+"assunto": "Maturidade de Processos (CMMI)",
+"banca": "AOCP",
+"instituicao": "Polícia Científica",
+"ano": "2026",
+"cargo": "Perito Criminal - Computação",
+"nivel": "Superior",
+"enunciado": "O modelo CMMI classifica a maturidade do processo de software em cinco níveis fundamentais. Segundo o documento, qual é a característica central do Nível 3 (Definido)?",
+"alternativas": {
+"A": "O processo de software é considerado 'ad hoc' e dependente essencialmente de esforços individuais.",
+"B": "A disciplina é necessária e suficiente apenas para repetir sucessos passados no controle de custo, baseando-se em procedimentos básicos de gerenciamento.",
+"C": "O processo de software para as atividades de gerenciamento e de engenharia é documentado, padronizado e integrado em um processo padrão de software para a organização.",
+"D": "A melhoria contínua é alimentada unicamente pela inserção experimental de novas tecnologias, não havendo processos padronizados."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta, correspondendo fielmente à Fonte 1046: 'Nível 3 Definido: O processo de software para as atividades de gerenciamento e de engenharia é documentado, padronizado e integrado em um processo padrão de software'. A alternativa A descreve o Nível 1 Inicial (Fonte 1042). A alternativa B refere-se ao Nível 2 Repetível (Fontes 1044 e 1045). A alternativa D refere-se de forma distorcida ao Nível 5 Otimizado (Fonte 1049)."
+},
+{
+"id": "71",
+"disciplina": "Governança de TI",
+"assunto": "Maturidade de Processos (MPS.BR)",
+"banca": "CEBRASPE",
+"instituicao": "Ministério Público",
+"ano": "2026",
+"cargo": "Analista de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "O modelo MPS.BR (Melhoria de Processo do Software Brasileiro) organiza sua estrutura de avaliação em níveis designados por letras. Com base no diagrama apresentado, qual letra representa o nível mais baixo ('Parcialmente Gerenciado') e o nível mais alto ('Em otimização'), respectivamente?",
+"alternativas": {
+"A": "F (Parcialmente Gerenciado) e A (Em otimização).",
+"B": "G (Parcialmente Gerenciado) e A (Em otimização).",
+"C": "G (Parcialmente Gerenciado) e E (Em otimização).",
+"D": "A (Parcialmente Gerenciado) e G (Em otimização)."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. Analisando o diagrama da pirâmide do MPS.BR (Fontes 1066 a 1098), a base da pirâmide (Nível G) equivale ao estado 'Parcialmente Gerenciado' (Fontes 1089 e 1097), enquanto o topo (Nível A) equivale ao estado 'Em otimização' (Fontes 1072 e 1091). A alternativa D inverte a lógica da pirâmide."
+},
+{
+"id": "72",
+"disciplina": "Engenharia de Software",
+"assunto": "Estrutura do CMMI",
+"banca": "IBAM",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Técnico em Informática",
+"nivel": "Médio",
+"enunciado": "A estrutura do CMMI utiliza siglas e conceitos definidos para organizar os processos. Dentre esses termos, destacam-se as KPAs, os KPIs e os KPGs. Qual o papel das KPAs (Key Process Areas) nessa estrutura?",
+"alternativas": {
+"A": "Elas medem diretamente o quantitativo de progresso através de índices numéricos de performance global.",
+"B": "São objetivos finais de negócio estipulados para a aquisição e compra de produtos de hardware.",
+"C": "São responsáveis por auditar os agressores involuntários em conformidade com as normas do ISO 14958.",
+"D": "Elas definem as áreas importantes a serem trabalhadas, nas quais o esforço do processo é concentrado."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta com base na Fonte 977, que sumariza a estrutura do CMMI: 'as KPAs definem as áreas importantes a serem trabalhadas, os KPIs medem o progresso nessas áreas e os KPGs (ou objetivos) definem o que se pretende alcançar'. A alternativa A se refere aos KPIs. A alternativa B confunde com diretrizes de aquisição e a alternativa C insere conceitos alheios à finalidade primária das KPAs."
+},
+{
+"id": "73",
+"disciplina": "Governança de TI",
+"assunto": "Evolução CMM para CMMI",
+"banca": "FGV",
+"instituicao": "Tribunal de Justiça",
+"ano": "2026",
+"cargo": "Analista Judiciário - Sistemas",
+"nivel": "Superior",
+"enunciado": "O documento relata que o sucesso do SW-CMM gerou a criação de modelos derivados (como P-CMM, SA-CMM e IPD-CMM), o que causou problemas. Qual foi o principal motivo que impulsionou a evolução e unificação desses modelos em um único framework, o CMMI?",
+"alternativas": {
+"A": "A necessidade de substituir a metodologia ágil Scrum, uma vez que o SEI proibiu o uso de métricas de software nas fábricas do governo.",
+"B": "A falta de padronização, onde cada modelo usava terminologias diferentes e formas distintas de avaliação, gerando altos custos de harmonização e treinamento para as empresas.",
+"C": "O fato de que todos os modelos independentes cobravam altos royalties de implementação, enquanto o CMMI tornou-se uma norma open-source brasileira.",
+"D": "A constatação de que o modelo IPD-CMM estava focado apenas em hardware militar e não conseguia avaliar a certificação de testadores humanos."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta, justificada pelas Fontes 941 a 944, que apontam os problemas de antes do CMMI: 'Nem todos usavam a mesma terminologia... A estrutura não era padronizada... Alto custo no treinamento, avaliação e harmonização das organizações que implantassem mais de um modelo'. A alternativa A está errada porque o CMMI 'Não compete com metodologias de desenvolvimento' (Fonte 963). As alternativas C e D são inverídicas baseadas no texto."
+},
+{
+"id": "74",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Normas de Qualidade",
+"banca": "CESPE/Cebraspe",
+"instituicao": "Órgão Federal",
+"ano": "2026",
+"cargo": "Engenheiro de Software",
+"nivel": "Superior",
+"enunciado": "O controle e garantia da qualidade de software também são pautados em normativas internacionais. Qual é a norma ISO explicitamente citada no material como a responsável por definir as 'Características da Qualidade de Software'?",
+"alternativas": {
+"A": "ISO 9000",
+"B": "ISO/IEC 14958",
+"C": "ISO/IEC 9126",
+"D": "ISO/IEC 12119"
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta. A Fonte 1059 especifica diretamente: 'ISO/IEC 9126 - Características da Qualidade de Software'. A norma ISO 9000 e ISO 14000 (Fonte 912) focam em Gestão e Ambiente. A ISO/IEC 14958 (Fonte 1061) é um Guia de Avaliação de Produto, e a ISO/IEC 12119 (Fonte 1062) trata de Requisitos de Qualidade e Testes de Pacotes."
+},
+{
+"id": "75",
+"disciplina": "Engenharia de Software",
+"assunto": "Fundamentos de Teste",
+"banca": "FCC",
+"instituicao": "Tribunal de Contas",
+"ano": "2026",
+"cargo": "Auditor de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "Segundo o padrão do Institute of Electrical and Electronic Engineers (IEEE) apresentado no material sobre testes, existe uma diferenciação clara para os eventos anômalos. Qual das alternativas reflete a definição correta do termo 'Engano (mistake)'?",
+"alternativas": {
+"A": "Diferença entre o valor obtido e o valor esperado registrada durante a execução em ambiente controlado.",
+"B": "Ação humana que produz um resultado incorreto, como por exemplo, uma ação incorreta tomada pelo programador.",
+"C": "Deficiência mecânica ou estrutural no hardware que interrompe a depuração do código-fonte.",
+"D": "Evento de encerramento notável onde o sistema bloqueia os mecanismos de proteção para evitar estresse em massa."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta, pois a Fonte 1155 e 1156 definem categoricamente o 'Engano (mistake)' como 'ação humana que produz um resultado incorreto, como por exemplo, uma ação incorreta tomada pelo programador'. A alternativa A descreve 'Erro' (Fonte 1158). A alternativa C deturpa a definição de 'Defeito'. A alternativa D inventa uma situação envolvendo estresse e segurança."
+},
+{
+"id": "76",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Abordagens e Níveis de Teste",
+"banca": "VUNESP",
+"instituicao": "Empresa de Processamento de Dados",
+"ano": "2026",
+"cargo": "Analista de Qualidade e Testes",
+"nivel": "Superior",
+"enunciado": "Os termos Verificação e Validação definem abordagens distintas para aferir a qualidade em Engenharia de Software. Com base no documento, como esses dois conceitos podem ser diferenciados através de perguntas-chave?",
+"alternativas": {
+"A": "A Verificação questiona: 'Estamos construindo o produto certo?'; A Validação questiona: 'Estamos construindo de forma robusta e criptografada?'.",
+"B": "A Verificação aborda testes exclusivamente pós-implantação; A Validação restringe-se às métricas documentadas no nível Inicial (Ad-hoc) do CMMI.",
+"C": "A Verificação questiona: 'Estamos construindo certo o produto?' (garante função específica); A Validação questiona: 'Estamos construindo o produto certo?' (rastreável às exigências do cliente).",
+"D": "Ambos são sinônimos no processo de automação, não havendo diferenciação além do momento em que a geração de massa de dados do Faker ocorre."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está perfeitamente correta. A Fonte 1166 explicita o contraste: 'Verificação: Estamos construindo certo o produto? / Validação: Estamos construindo o produto certo?'. As Fontes 1164 e 1165 também sustentam que Verificação garante que funcione corretamente uma função, enquanto Validação garante o rastreio às exigências do cliente. As outras alternativas confundem as funções ou misturam com outras ferramentas do PDF."
+},
+{
+"id": "77",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Técnicas de Teste",
+"banca": "CEBRASPE",
+"instituicao": "Ministério Público",
+"ano": "2026",
+"cargo": "Técnico Especializado em TI",
+"nivel": "Superior",
+"enunciado": "Dentre as abordagens fundamentais para planejamento de testes de software, a técnica Funcional (Caixa Preta) foca nas entradas e saídas. Por outro lado, há a abordagem 'Baseada em Erros'. Segundo o material, em que consiste a técnica Baseada em Erros?",
+"alternativas": {
+"A": "Consiste em testar exclusivamente os caminhos lógicos do software através de grafos para verificar os laços internos.",
+"B": "Consiste em utilizar um simulador de LLMs que gera massas de dados JSON inválidas para corromper o banco de dados.",
+"C": "Consiste em incluir propositalmente algum erro no programa e observar o seu comportamento, comparando-o com o comportamento do programa original.",
+"D": "Consiste em delegar ao cliente no ambiente dele próprio a tentativa de subverter o sistema utilizando o método intertarefas."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta conforme a Fonte 1171, que define a abordagem Baseada em Erros: 'Consiste em incluir propositalmente algum erro no programa e observar o comportamento do programa com erro, comparando-o com o comportamento do programa original'. A alternativa A define o Teste Estrutural / Caixa Branca (Fontes 1168 e 1173). A alternativa B mistura LLMs/massas (Fontes 1205 e 1213). A alternativa D descreve características ligadas ao Teste Beta ou de Estresse/Segurança (Fontes 1186, 1189)."
+},
+{
+"id": "78",
+"disciplina": "Engenharia de Software",
+"assunto": "Classificação de Testes",
+"banca": "AOCP",
+"instituicao": "Secretaria de Fazenda",
+"ano": "2026",
+"cargo": "Auditor Fiscal - Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "Os Testes de Aceitação visam identificar erros cumulativos no final do ciclo, sendo divididos primordialmente em Teste Alfa e Teste Beta. Qual alternativa descreve precisamente uma característica do Teste Alfa exposta no documento?",
+"alternativas": {
+"A": "É realizado em dezenas de instalações do cliente sem nenhum acompanhamento ou controle do desenvolvedor, simulando o uso real em larga escala.",
+"B": "É executado por um cliente nas instalações do desenvolvedor, sendo acompanhado pelo próprio desenvolvedor em um ambiente controlado, registrando os problemas encontrados.",
+"C": "Constitui um teste exclusivo para verificação de limites do hardware através do acúmulo de requisições web com a finalidade de estressar o servidor.",
+"D": "Ocorre de forma teórica, utilizando ferramentas estáticas que não executam o programa, a fim de garantir a portabilidade do estilo de código."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. O material (Fontes 1184 e 1185) define expressamente: 'O teste alfa é executado por um cliente nas instalações do desenvolvedor, sendo acompanhado pelo desenvolvedor, que registra os problemas... O ambiente é controlado'. A alternativa A se refere ao Teste Beta (Fontes 1186 e 1187). A alternativa C descreve Testes de Estresse (Fontes 1191 e 1192). A alternativa D descreve Ferramentas Estáticas (Fonte 1235)."
+},
+{
+"id": "79",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Níveis de Teste",
+"banca": "Instituto Consulplan",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Analista de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "A divisão clássica da atividade de testes categoriza-os em diferentes níveis estruturais. Qual nível tem por objetivo primordial 'construir a estrutura do programa de forma sistemática' a partir dos módulos já analisados, 'testando também a interface dos módulos'?",
+"alternativas": {
+"A": "Teste de Unidade.",
+"B": "Teste de Integração.",
+"C": "Teste de Validação.",
+"D": "Teste de Segurança Intertarefas."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta de acordo com a Fonte 1178: 'Testes de integração: O objetivo é, a partir dos módulos testados no nível de unidade, construir a estrutura do programa... testando também a interface dos módulos'. A alternativa A, Testes de unidade, foca na menor unidade, o módulo (Fonte 1177). A alternativa C, Validação, foca em verificar se o produto certo foi construído para o cliente (Fonte 1179). A alternativa D é um agrupamento inexistente desta forma no texto."
+},
+{
+"id": "80",
+"disciplina": "Engenharia de Software",
+"assunto": "Sistemas de Tempo Real",
+"banca": "CEBRASPE",
+"instituicao": "Órgão Público",
+"ano": "2026",
+"cargo": "Analista de Sistemas",
+"nivel": "Superior",
+"enunciado": "Os sistemas de tempo real exigem uma estratégia de testes dividida em etapas específicas para lidar com a natureza do seu fluxo de dados. Dentre essas etapas, qual é o papel desempenhado pelo 'Teste intertarefas'?",
+"alternativas": {
+"A": "Testar cada tarefa estritamente de maneira independente para revelar somente erros de lógica e de função puros, sem considerar timing.",
+"B": "Simular o comportamento de um sistema de tempo real inteiramente através de ferramentas estáticas, desprezando a carga e os eventos externos.",
+"C": "Tentar subverter todos os mecanismos de proteção embutidos utilizando um grande volume de tarefas para avaliar a segurança perimetral.",
+"D": "Testar tarefas assíncronas que se comunicam entre si, usando diferentes taxas de dados e cargas de processamento para detectar erros de sincronização."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta, correspondendo ao conceito da Fonte 1232: 'Teste intertarefas: As tarefas assíncronas, que sabidamente comunicam-se entre si, são testados com diferentes taxas de dados e cargas... para determinar se ocorrerão erros de sincronização'. A alternativa A se refere ao 'Teste de tarefas' (Fontes 1228 e 1229). A alternativa B distorce o 'Teste comportamental' (Fontes 1230 e 1231). A alternativa C descreve de forma mesclada testes de estresse/segurança."
+},
+{
+"id": "81",
+"disciplina": "Engenharia de Software",
+"assunto": "Ferramentas e Massa de Dados",
+"banca": "FGV",
+"instituicao": "Tribunal de Contas",
+"ano": "2026",
+"cargo": "Auditor de TI",
+"nivel": "Superior",
+"enunciado": "A geração de massa de dados pode ser acelerada pelo uso de soluções especializadas. De acordo com o documento, qual é a ferramenta gratuita citada que foi desenhada especificamente para gerar grandes volumes de dados personalizados voltados para bancos de dados MySQL?",
+"alternativas": {
+"A": "Teste.ai",
+"B": "JSON Generator",
+"C": "FillDB",
+"D": "Dott.ai"
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C é a correta. A Fonte 1203/1204 descreve FillDB expressamente como 'Uma ferramenta gratuita que gera grandes volumes de dados personalizados para MySQL, preenchendo bancos de dados'. A alternativa A, Teste.ai, gera tabelas para copiar/exportar (Fonte 1202). A alternativa B, JSON Generator, gera objetos JSON estruturados (Fonte 1206). A alternativa D, Dott.ai, é uma plataforma geral com soluções para massas de dados (Fonte 1208)."
+},
+{
+"id": "82",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Ferramentas de Teste",
+"banca": "FCC",
+"instituicao": "Ministério Público",
+"ano": "2026",
+"cargo": "Analista de Sistemas",
+"nivel": "Superior",
+"enunciado": "As ferramentas utilizadas na área de testes são classificadas primariamente em Estáticas e Dinâmicas. Qual a principal característica e uma respectiva desvantagem das ferramentas Dinâmicas, conforme o texto?",
+"alternativas": {
+"A": "Elas não executam o programa; a sua desvantagem é exigir acesso constante ao código fonte e limitação na verificação do uso de memória.",
+"B": "Monitoram a execução do programa e não precisam acessar o código fonte; sua desvantagem é que a cobertura obtida dependerá estritamente dos casos de testes criados, e requerem instrumentação.",
+"C": "Promovem uma cobertura teórica completa injetando automaticamente massas de dados via LLMs; sua desvantagem é seu alto custo em sistemas de tempo real.",
+"D": "Possibilitam testar o código compilado com total isolamento; a sua desvantagem é não conseguir monitorar sob nenhuma hipótese os valores das variáveis alocadas em tempo de execução."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B está correta com base nas Fontes 1238 e 1239, que afirmam que as ferramentas Dinâmicas 'Monitoram a execução... não necessitam de acesso ao código fonte' e que as desvantagens incluem 'Cobertura depende dos casos de testes' e 'necessidade de instrumentação'. A alternativa A descreve perfeitamente as ferramentas Estáticas (Fontes 1235 e 1236). A alternativa C é uma mistura de conceitos aleatórios, e a alternativa D nega a propriedade básica das dinâmicas (monitoram variáveis sim - Fonte 1238)."
+},
+{
+"id": "83",
+"disciplina": "Certificações em TI",
+"assunto": "Contexto e Importância das Certificações",
+"banca": "VUNESP",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Analista de Testes Pleno",
+"nivel": "Superior",
+"enunciado": "As certificações em Teste de Software são um tema polêmico, mas em expansão no Brasil. Considerando as percepções da comunidade DFTestes e o consenso do mercado descritos no documento, qual é a principal ressalva crítica apontada em relação às certificações?",
+"alternativas": {
+"A": "As certificações são ignoradas no mercado brasileiro, sendo inválidas para disputar vagas em fábricas de software ligadas a órgãos governamentais.",
+"B": "A certificação é suficiente para assegurar o sucesso profissional pleno, dispensando qualquer necessidade prática ao longo do tempo.",
+"C": "As certificações geralmente não conseguem medir a experiência prática do profissional na área de testes, a qual agrega muito mais valor em processos de seleção e promoção.",
+"D": "O profissional certificado não conquista salários mais altos porque essas provas tratam exclusivamente da ferramenta Selenium, que está obsoleta."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta. O material relata que 'elas não conseguem medir a experiência do profissional na área de teste' (Fonte 1272) e que é consenso na comunidade que a 'experiência do profissional na área agrega muito valor e que esta experiência deve ser relevante' (Fonte 1273). A crítica é justamente o descarte de veteranos não certificados (Fonte 1275 e 1276). A alternativa A é errada, pois a Fonte 1264 diz o oposto (valorizam a área). A alternativa B contradiz o texto que ressalta que 'a certificação não substituirá a experiência' (Fonte 1280). A alternativa D é falsa."
+},
+{
+"id": "84",
+"disciplina": "Certificações em TI",
+"assunto": "Certificações QAI",
+"banca": "Instituto Consulplan",
+"instituicao": "Câmara Municipal",
+"ano": "2026",
+"cargo": "Analista Desenvolvedor",
+"nivel": "Superior",
+"enunciado": "A QAI (Quality Assurance Institute) disponibiliza um programa robusto de certificações calcado no CBOK. Para a área específica de Testes de Software, a certificação promovida é a CSTE. Qual é a exigência profissional obrigatória que todos os candidatos devem cumprir para se candidatarem ao CSTE (além dos anos de formação/experiência adicionais)?",
+"alternativas": {
+"A": "Possuir formação acadêmica restrita à área de Engenharia da Computação, cursada em prazo mínimo de cinco anos.",
+"B": "Ter trabalhado na área de serviços de informação, preferencialmente com Teste de Software, impreterivelmente nos últimos 18 meses.",
+"C": "Possuir certificação base (CTFL) emitida previamente pelo instituto parceiro ISTQB há pelo menos dois anos.",
+"D": "Comprovar o desenvolvimento e arquitetura de no mínimo cinco ferramentas dinâmicas de rastreio em linguagem Java."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. O documento é explícito na Fonte 1294: 'cada candidato deve ter trabalhado na área de serviços de informação, preferencialmente com Teste de Software, nos últimos 18 meses' além dos pré-requisitos de formação. A alternativa A erra na restrição da formação (há opções para 4, 3 ou 2 anos ou até nenhuma, desde que tenha mais experiência, Fontes 1295 a 1301). As alternativas C e D são exigências inventadas que não pertencem ao CSTE da QAI."
+},
+{
+"id": "85",
+"disciplina": "Certificações em TI",
+"assunto": "Certificações ISTQB",
+"banca": "AOCP",
+"instituicao": "Secretaria Estadual de Saúde",
+"ano": "2026",
+"cargo": "Técnico de Suporte em Informática",
+"nivel": "Médio",
+"enunciado": "O ISTQB é a maior certificadora na área de testes no mundo, representada no Brasil pelo BSTQB. Em relação à certificação 'CTFL' (Certified Tester Foundation Level) do ISTQB, qual afirmação representa corretamente suas características normativas?",
+"alternativas": {
+"A": "A certificação exige como pré-requisito mínimo três anos de experiência comprovada em desenvolvimento e expira a cada cinco anos.",
+"B": "É baseada no corpo de conhecimento internacional denominado 'syllabus', não possui pré-requisitos obrigatórios, não expira e não precisa ser renovada.",
+"C": "Ela destina-se unicamente ao cargo de Diretor de TI, assegurando uma compreensão em nível gerencial da gestão de riscos.",
+"D": "Consiste em um teste exclusivamente prático de automação web, devendo o profissional obter pelo menos 50 PDTS prévios para agendar o exame."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B está correta conforme as Fontes 1309 e 1310: 'corpo comum internacional... é denominado syllabus' e 'não possui pré-requisitos obrigatórios, não expira e não precisa ser renovado'. A alternativa A mescla incorretamente requisitos do CTAL (Fonte 1315). A alternativa C é destinada ao CTAL e não CTFL (Fonte 1314). A alternativa D insere elementos da certificação brasileira CBTS (ALATS), que demanda 50 PDTS (Fonte 1323)."
+},
+{
+"id": "86",
+"disciplina": "Certificações em TI",
+"assunto": "Certificações ALATS",
+"banca": "IBAM",
+"instituicao": "Empresa Pública de TI",
+"ano": "2026",
+"cargo": "Analista de Negócios TI",
+"nivel": "Superior",
+"enunciado": "A ALATS criou a certificação CBTS (Certificação Brasileira em Testes de Software) para atender as exigências nacionais. Como funciona a mecânica de validade e recertificação dessa prova nacional?",
+"alternativas": {
+"A": "Os exames ocorrem a qualquer momento do ano e o certificado gerado é vitalício, idêntico aos padrões do CTFL do ISTQB.",
+"B": "A certificação tem validade apenas no setor bancário federal e exige uma doação semestral de 50 PDTS para ONGs educacionais.",
+"C": "Os exames ocorrem duas vezes ao ano e possuem validade de 3 anos. O profissional precisa acumular 50 PDTS nesse período, ou realizar um novo exame.",
+"D": "O título CBTS expira após 10 anos e a recertificação só pode ser feita através de pós-graduação chancelada pelo BSTQB."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta em conformidade com as Fontes 1322 e 1323, que descrevem as regras da CBTS: 'Os exames... ocorrem duas vezes ao ano (maio e novembro) e tem validade de 3 anos... o profissional deve acumular uma pontuação de 50 PDTS ou deve realizar novo exame para validar sua re-certificação'. A alternativa A afirma erradamente que é vitalícia. A alternativa B interpreta de forma ficcional a sigla PDTS. A alternativa D propõe um prazo irreal segundo o documento."
+},
+{
+"id": "87",
+"disciplina": "Certificações em TI",
+"assunto": "Certificações ISEB",
+"banca": "CEBRASPE",
+"instituicao": "Órgão Federal",
+"ano": "2026",
+"cargo": "Engenheiro de Dados",
+"nivel": "Superior",
+"enunciado": "O ISEB oferece uma trilha de certificações abrangente, do nível Foundation até o Higher Level. Qual é uma das maiores vantagens institucionais descritas no material para o profissional que obtém o 'ISEB Foundation Certificate in Software Testing'?",
+"alternativas": {
+"A": "O profissional que adquire esta certificação é dispensado permanentemente de testes práticos na contratação pública.",
+"B": "Ela habilita o candidato imediatamente a receber também os títulos CTAL-TA, CTAL-TM e CTAL-TTA emitidos pelo QAI.",
+"C": "Esta certificação também é acreditada pelo ISTQB, o que significa que o aprovado obtém automaticamente as duas certificações simultâneas (ISEB Foundation e ISTQB CTFL).",
+"D": "O exame foca exclusivamente na linguagem JavaScript para testes orientados a comportamento (BDD), elevando a competência do desenvolvedor sênior."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta. O material (Fonte 1330) estabelece claramente sobre o Foundation Certificate in Software Testing que: 'Esta certificação também é acreditada pelo ISTQB, portanto, o profissional que obtém esta certificação recebe ambas as certificações: ISEB Foundation Certificate... e ISTQB Certified Tester Foundation Level'. As demais opções citam benefícios e instituições inverídicas (como CTAL que é do ISTQB e requer 3 anos e a prova própria, Fonte 1315-1316)."
+},
+{
+"id": "88",
+"disciplina": "Certificações em TI",
+"assunto": "Certificações IIST",
+"banca": "FCC",
+"instituicao": "Tribunal de Justiça",
+"ano": "2026",
+"cargo": "Analista Judiciário - Sistemas",
+"nivel": "Superior",
+"enunciado": "As certificações IIST expiram num ciclo de três anos e possuem duas divisões principais voltadas à disciplina de testes (CSTP e CTM). A certificação 'CTM - Certified Test Manager' foca em qual perfil profissional e requer qual experiência mínima prévia?",
+"alternativas": {
+"A": "Foca no profissional iniciante, não requer nenhuma experiência e aborda fundamentos vitais de projeto e acompanhamento de defeitos.",
+"B": "Foca no profissional com experiência mínima de 3 anos na área de testes de software que pretende assumir funções de gestão técnica e organizacional de testes.",
+"C": "Destina-se ao gerente de portfólio de projetos tradicional que não possui formação e exige apenas comprovação de 18 meses em operação de caixa branca.",
+"D": "Voltado exclusivamente a desenvolvedores C# que almejam gerir frameworks de testes de carga em infraestruturas baseadas no padrão SOA e em nuvem."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta de acordo com as Fontes 1347 e 1348, que definem a certificação CTM como sendo 'voltado para o profissional com experiência mínima de 3 anos na área de Testes de Software e que pretende se tornar gerente de testes' e envolve tópicos de gerência, melhorias, métricas, riscos, etc. A alternativa A refere-se aos moldes da certificação CSTP (Fonte 1345 e 1346). As alternativas C e D desviam-se totalmente dos pré-requisitos apresentados pelo IIST."
+},
+{
+"id": "89",
+"disciplina": "Certificações em TI",
+"assunto": "Preparação e Carreira",
+"banca": "FGV",
+"instituicao": "Empresa Estadual",
+"ano": "2026",
+"cargo": "Designer Gráfico / UX",
+"nivel": "Superior",
+"enunciado": "A respeito do caminho profissional a ser seguido, Herbert Maroni traz alertas e sugestões de preparo para quem deseja conquistar uma certificação e ingressar na área. Qual das alternativas condiz com suas orientações listadas no texto?",
+"alternativas": {
+"A": "O candidato deve matricular-se em um curso preparatório caríssimo, já que o certificado de conclusão do curso substitui as provas formais na maioria das certificadoras.",
+"B": "Basta possuir experiência prévia, ignorando simulados de prova, dado que as questões são intuitivas para quem já trabalhou mais de dois anos na área.",
+"C": "O candidato precisa se dedicar aos estudos independentemente do curso escolhido (pois o curso raramente é suficiente), recomendando-se fazer no mínimo dois simulados antes da prova.",
+"D": "O profissional focado em automatização deve obrigatoriamente investir no estudo de gerência de projetos antes de aprender qualquer linguagem de programação básica."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta conforme as orientações descritas nas Fontes 1362, 1363 e 1367: 'geralmente o curso não é o suficiente', 'o candidato precisa se dedicar aos estudos independentemente do curso' e 'Recomenda-se fazer, no mínimo, dois simulados antes da prova'. A alternativa A afirma falsamente que o curso substitui a prova. A alternativa B ignora a recomendação expressa do uso de simulados. A alternativa D inverte a orientação dada na Fonte 1369 e 1371, onde a área técnica pede linguagem, e a área de gerência pede projetos."
+},
+{
+"id": "90",
+"disciplina": "Governança de TI",
+"assunto": "Modelos de Maturidade",
+"banca": "CESPE/Cebraspe",
+"instituicao": "Tribunal de Contas",
+"ano": "2026",
+"cargo": "Auditor de TI",
+"nivel": "Superior",
+"enunciado": "O modelo CMMI não consiste apenas em um padrão engessado para os processos das empresas de tecnologia. Como o texto orienta a aplicação conceitual do CMMI na realidade de desenvolvimento das organizações?",
+"alternativas": {
+"A": "É um roteiro linear que deve ser inserido sem nenhuma adaptação para que a empresa possa abandonar em definitivo a metodologia Scrum.",
+"B": "Ele funciona como um método engessado de gerência de projetos com templates prontos que descartam análises estatísticas.",
+"C": "O CMMI é um guia que indica 'o que fazer' (e não 'como fazer'), servindo de referência, e precisa ser estudado, compreendido e adaptado a cada organização.",
+"D": "Ele atua como um framework concorrente frontal do PMBOK, focando unicamente na área financeira (compras) das fábricas de software militar."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C expressa as diretrizes listadas nas Fontes 954 e 961: 'Não é um método, mas um modelo que precisa ser estudado, compreendido e adaptado a cada organização' e 'Indica o que fazer e não como fazer'. A alternativa A contradiz o fato de que a organização precisa adaptar e a Fonte 963 diz que 'Não compete com metodologias de desenvolvimento como... Scrum'. A alternativa B é negada pela Fonte 954 ('Não é um método'). A alternativa D está errada pois a Fonte 964 afirma explicitamente que 'Não compete com metodologias gerenciamento de projetos como: PMBOK'."
+},
+{
+"id": "91",
+"disciplina": "Engenharia de Software",
+"assunto": "Falhas e Desempenho (Sintomas Comuns)",
+"banca": "Instituto Consulplan",
+"instituicao": "Câmara Municipal",
+"ano": "2026",
+"cargo": "Analista Desenvolvedor",
+"nivel": "Superior",
+"enunciado": "O SEI (Software Engineering Institute) produziu levantamentos estatísticos evidenciando a severidade da crise e dos desvios nos projetos de software antes da adoção massiva das práticas de qualidade. Segundo os dados citados no documento, qual a estatística de projetos cancelados?",
+"alternativas": {
+"A": "Aproximadamente 99% sofrem graves problemas e são reescritos, mas nenhum é cancelado.",
+"B": "Apenas 5% dos projetos são efetivamente abandonados pela ausência do nível Alfa.",
+"C": "São em torno de 30% os projetos de software cancelados antes de serem concluídos / finalizados.",
+"D": "Mais de 70% dos projetos são abortados (cancelados) especificamente por falhas de instrumentação do Jmockit."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta conforme os dados numéricos cravados na Fonte 905 e reiterados na Fonte 1125: '30% dos projetos são cancelados antes de serem finalizados'. A alternativa D confunde a taxa de cancelados (30%) com a taxa de atraso ou os 70% que falham na entrega de funcionalidades esperadas (Fontes 904 e 1126). As alternativas A e B criam números irreais ou não amparados no PDF."
+},
+{
+"id": "92",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Teste Estático e Dinâmico",
+"banca": "CEBRASPE",
+"instituicao": "Órgão Federal",
+"ano": "2026",
+"cargo": "Engenheiro de Software",
+"nivel": "Superior",
+"enunciado": "O processo de software prevê que as ferramentas de suporte ajudem a diagnosticar os problemas o mais cedo possível. As ferramentas do tipo 'Estáticas' atuam em qual espectro e têm quais vantagens primárias segundo o material?",
+"alternativas": {
+"A": "Não executam o programa; possuem cobertura (teórica) completa, verificam portabilidade, estilo, e não dependem da qualidade dos casos de teste.",
+"B": "Elas rodam o código em back-end sem interface (headless); têm como vantagem primária o descobrimento de estouros de memória RAM reais.",
+"C": "Compilam o software forçando o estresse das interfaces; têm como vantagem simular ataques paralelos aos bancos de dados MySQL.",
+"D": "São ferramentas orientadas à inteligência artificial que atuam lendo logs do sistema rodando em ambiente Alfa no cliente, sem acesso ao código."
+},
+"resposta_correta": "A",
+"comentario": "A alternativa A está em consonância total com a Fonte 1235, onde se lê sobre Ferramentas Estáticas: 'Não executam o programa. Vantagens: cobertura completa (teoricamente), verificam portabilidade, estilo e são independentes da qualidade dos casos de teste'. A alternativa B descreve características de testes dinâmicos com detecção de memória (embora cite 'headless' que pertence a outra aula). As alternativas C e D misturam de forma inventada funções que demandam execução, e ferramentas estáticas 'Não executam o programa'."
+},
+{
+"id": "93",
+"disciplina": "Certificações em TI",
+"assunto": "Trilha Avançada ISTQB (CTAL)",
+"banca": "AOCP",
+"instituicao": "Polícia Científica",
+"ano": "2026",
+"cargo": "Perito Criminal - Computação",
+"nivel": "Superior",
+"enunciado": "A certificação avançada do ISTQB (CTAL) é fracionada em especialidades que cobrem diferentes abordagens na execução e gestão da garantia de qualidade em software. Dentre as especializações listadas que compõem o CTAL, encontra-se:",
+"alternativas": {
+"A": "CTAL-UI (User Interface Master) e CTAL-UX (User Experience Manager).",
+"B": "CTAL-TA (Test Analyst), CTAL-TM (Test Manager) e CTAL-TTA (Technical Test Analyst).",
+"C": "CTAL-DEV (Developer Core), CTAL-SEC (Security Consultant) e CTAL-NET (Network Assessor).",
+"D": "CTAL-Agile (Agile Specialist) e CTAL-Cloud (Cloud Architecture Tester)."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a única correta. O material (Fonte 1316) lista taxativamente as divisões do CTAL no ISTQB: 'O CTAL é dividido em CTAL-TA (Advanced Level Test Analyst), CTAL-TM (Advanced Level Test Manager), CTAL-TTA (Advanced Level Technical Test Analyst)'. As demais opções citam ramificações tecnológicas válidas em outros âmbitos do mercado, mas ausentes na documentação restrita deste PDF e da grade avançada core do ISTQB ali descrita."
+},
+{
+"id": "94",
+"disciplina": "Certificações em TI",
+"assunto": "Gestão de Carreira e Mercado",
+"banca": "FCC",
+"instituicao": "Tribunal de Contas",
+"ano": "2026",
+"cargo": "Auditor de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "Levando em conta o mercado e as dificuldades de avaliação técnica que muitas companhias enfrentam, por qual razão as certificações atraem tantas ressalvas e críticas da comunidade DFTestes quando ocorrem promoções e processos seletivos?",
+"alternativas": {
+"A": "Porque a esmagadora maioria das certificadoras no Brasil são ilegais e não possuem suporte logístico da matriz ISTQB européia.",
+"B": "Porque as certificadoras não oferecem os exames em língua portuguesa, forçando a fluência em inglês corporativo.",
+"C": "Porque as empresas têm dificuldade em avaliar os profissionais empiricamente e usam as certificações como filtro absoluto, o que resulta no descarte prévio de candidatos altamente experientes e sem o certificado formal.",
+"D": "Porque as provas invadem segredos de negócio e propriedade intelectual para testar a senioridade do profissional atuante no modelo Caixa Branca."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C responde perfeitamente conforme a narrativa da Fonte 1274, 1275 e 1276. As empresas têm 'dificuldades em avaliar o conhecimento e experiência de um profissional' e adotam a certificação como base eliminatória. Dessa forma, 'é muito provável que um profissional experiente... seja descartado... por não possuir uma certificação. Este é o principal motivo das críticas direcionadas às certificações'. As demais opções não constam em nenhum ponto do documento."
+},
+    {
+"id": "95",
+"disciplina": "Engenharia de Software",
+"assunto": "Manutenção de Software - Definição",
+"banca": "CESPE/Cebraspe",
+"instituicao": "Órgão Federal",
+"ano": "2026",
+"cargo": "Analista de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "O conceito de Manutenção de Software engloba diversas vertentes econômicas e tecnológicas. Com base na definição oficial do SEI (2005) presente no material, a manutenção de software é corretamente definida como:",
+"alternativas": {
+"A": "O conjunto de estratégias estáticas de teste de regressão feitas obrigatoriamente antes da entrega final ao cliente, visando assegurar a portabilidade sistêmica.",
+"B": "O custo associado à modificação de um sistema de software ou componente depois de entregue para corrigir falhas, melhorar o desempenho ou outros atributos, ou para adaptá-lo a um ambiente modificado.",
+"C": "O processo orçamentário destinado exclusivamente à correção de defeitos em sistemas operacionais embarcados, não abrangendo atributos de reengenharia evolutiva.",
+"D": "O esforço em homens-hora despendido na etapa de levantamento de requisitos para prevenir o cancelamento do projeto de software."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B reproduz fielmente a definição do SEI (2005). As demais alternativas distorcem o conceito, restringindo-o a testes, requisitos ou a sistemas embarcados de forma arbitrária."
+},
+{
+"id": "96",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Tipos de Manutenção",
+"banca": "FGV",
+"instituicao": "Tribunal de Contas",
+"ano": "2026",
+"cargo": "Auditor de TI",
+"nivel": "Superior",
+"enunciado": "A manutenção de software classifica-se em quatro tipos fundamentais, de acordo com o objetivo da intervenção. Assinale a alternativa que relaciona corretamente o tipo de manutenção à sua respectiva descrição, conforme o material apresentado.",
+"alternativas": {
+"A": "Adaptativa: acréscimo de funcionalidades não previstas em seu documento de requisitos original.",
+"B": "Preventiva (reengenharia): adaptação do software para acomodar mudanças em políticas governamentais ou novas regras de negócio.",
+"C": "Evolutiva (ou perfectiva): o software é modificado para oferecer uma base melhor para futuras manutenções, melhorando sua confiabilidade.",
+"D": "Corretiva: correção de erros/falhas no sistema."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta. A alternativa A confunde Adaptativa com Evolutiva. A alternativa B confunde Preventiva com Adaptativa. A alternativa C confunde Evolutiva com Preventiva."
+},
+{
+"id": "97",
+"disciplina": "Engenharia de Software",
+"assunto": "Estatísticas de Manutenção",
+"banca": "FCC",
+"instituicao": "Empresa Pública",
+"ano": "2026",
+"cargo": "Analista de Sistemas",
+"nivel": "Superior",
+"enunciado": "A manutenção consome a maior parcela do orçamento de software de uma organização. De acordo com os gráficos de consumo e custo de manutenção presentes no PDF, qual dos tipos de manutenção consome a maior porcentagem individual dos esforços operacionais?",
+"alternativas": {
+"A": "Preventiva, consumindo 25% dos esforços para evitar a obsolescência.",
+"B": "Adaptativa, que representa 21% do volume de manutenção devido a constantes mudanças de leis.",
+"C": "Evolutiva, que consome cerca de 50% dos esforços para o acréscimo de funcionalidades.",
+"D": "Corretiva, sendo responsável por 70% do orçamento para reparo de bugs críticos de segurança."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C é a correta. O gráfico 'Quanto consome?' estabelece os percentuais: Evolutiva (50%), Adaptativa (25%), Corretiva (21%) e Preventiva (4%). A alternativa D mistura o percentual de orçamento global (70%) com a parcela de Corretiva (21%)."
+},
+{
+"id": "98",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Atividades da Manutenção",
+"banca": "VUNESP",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Desenvolvedor",
+"nivel": "Superior",
+"enunciado": "As 'Atividades Gerais' de manutenção seguem um fluxo para garantir que a modificação não impacte negativamente o sistema. Uma dessas atividades fundamentais consiste na 'repetição de testes passados a fim de garantir que as modificações não introduziram falhas no software anteriormente operacional'. Essa definição refere-se aos:",
+"alternativas": {
+"A": "Testes de Regressão.",
+"B": "Testes de Validação Alfa.",
+"C": "Testes Intertarefas.",
+"D": "Testes Estáticos."
+},
+"resposta_correta": "A",
+"comentario": "A alternativa A está correta. A definição fornecida no enunciado é exatamente a transcrição da atividade 'Testes de Regressão' listada no slide de Atividades Gerais. As demais opções não correspondem a essa etapa específica de repetição de testes para evitar a quebra de funcionalidades já existentes."
+},
+{
+"id": "99",
+"disciplina": "Engenharia de Software",
+"assunto": "Documentação na Manutenção",
+"banca": "Instituto Consulplan",
+"instituicao": "Câmara Municipal",
+"ano": "2026",
+"cargo": "Analista Desenvolvedor",
+"nivel": "Superior",
+"enunciado": "O processo de manutenção envolve artefatos formais. O 'Formulário de Pedido de Manutenção', que possui origem externa, possui exigências documentais diferentes dependendo da natureza do chamado. Se a manutenção for do tipo Adaptativa ou Perfectiva, o que deve constar essencialmente nesse formulário?",
+"alternativas": {
+"A": "Uma descrição completa das circunstâncias que levaram ao erro, incluindo dados de entrada e saída (screen shots).",
+"B": "A especificação da mudança, atuando como uma especificação de requisitos abreviada.",
+"C": "O registro prioritário da modificação com a lista completa e homologada dos artefatos de software que serão impactados pela reengenharia.",
+"D": "O cálculo exato do esforço exigido em horas para a manutenção da configuração do Bugzilla."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. O slide 'Documentos na Manutenção' orienta que, para a 'Manutenção Adaptativa ou Perfectiva', deve constar a 'especificação da mudança (i.e. uma especificação de requisitos abreviada)'. A alternativa A corresponde à 'Manutenção Corretiva'. As alternativas C e D referem-se ao 'Relatório de Mudanças de Software (origem interna)'."
+},
+{
+"id": "100",
+"disciplina": "Governança de TI",
+"assunto": "Normas de Processo de Manutenção",
+"banca": "AOCP",
+"instituicao": "Secretaria de Saúde",
+"ano": "2026",
+"cargo": "Analista em TI",
+"nivel": "Superior",
+"enunciado": "A padronização das atividades de manutenção é governada por normativas específicas. O material aponta uma norma internacional de manutenção que define um processo idêntico ao da NBR ISO 12207, porém de forma mais detalhada, abrangendo a definição e estrutura de um plano de manutenção. Qual é esta norma?",
+"alternativas": {
+"A": "ISO 9000",
+"B": "ISO/IEC 9126",
+"C": "ISO 14764",
+"D": "ISO/IEC 14958"
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta. O slide 'Processo de Manutenção - Norma ISO 14764' declara textualmente que se trata da 'Norma internacional de manutenção', que 'Define um processo de manutenção idêntico ao da ISO 12207, mas mais detalhado' e 'Define outros procedimentos... Definição e estrutura de um plano de manutenção'. As demais normas referem-se a qualidade geral ou avaliação de produto."
+},
+{
+"id": "101",
+"disciplina": "Engenharia de Software",
+"assunto": "Manutenibilidade e Princípios",
+"banca": "IBAM",
+"instituicao": "Empresa de Processamento",
+"ano": "2026",
+"cargo": "Arquiteto de Software",
+"nivel": "Superior",
+"enunciado": "A 'Manutenibilidade' é definida como a facilidade com que um software pode ser entendido, corrigido e adaptado. Diversos fatores influenciam esse atributo de qualidade. Assinale a opção que apresenta corretamente um Princípio de Projeto que favorece a manutenibilidade, conforme citado no texto.",
+"alternativas": {
+"A": "Acréscimo de Código Espaguete e Remoção de Encapsulamento.",
+"B": "Modularidade (focando em alta Coesão e baixo Acoplamento) e Ocultação de Informação.",
+"C": "Desconstrução de Camadas (Tubos e Filtros) para a unificação de toda a lógica em um único arquivo-fonte.",
+"D": "Ausência de Padrões de Projeto (Design Patterns) a fim de garantir a liberdade criativa e abstrata do programador."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B está correta. O slide 'Manutenibilidade - Fatores que influenciam' elenca explicitamente a 'Adoção de Princípios de Projeto: Modularidade (Coesão e Acoplamento), Ocultação de Informação, Encapsulamento, Separação de Objetivos, Generalização (Abstração)'. As demais alternativas descrevem práticas não recomendadas (como retirar encapsulamento, anular padrões e desfazer arquitetura em camadas) que contrariam o material."
+},
+{
+"id": "102",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Métricas de Manutenção",
+"banca": "CEBRASPE",
+"instituicao": "Tribunal Judiciário",
+"ano": "2026",
+"cargo": "Analista de Qualidade",
+"nivel": "Superior",
+"enunciado": "A manutenibilidade do software é uma medida indireta, mensurada através dos atributos da atividade de manutenção. Dentre as métricas de projeto e complexidade indicadas no documento para mensurar esse esforço, qual se destaca como uma métrica reconhecida de complexidade?",
+"alternativas": {
+"A": "Métrica de McCabe.",
+"B": "Modelo Bugzilla.",
+"C": "Métrica de Encapsulamento de MVC.",
+"D": "Diagrama P-CMM de reestruturação temporal."
+},
+"resposta_correta": "A",
+"comentario": "A alternativa A é a correta. O documento menciona explicitamente em 'Outras métricas' o uso de 'métricas de complexidade do software (ex: McCabe)'. O Bugzilla é um software de relatório de defeitos, MVC é um padrão de arquitetura e P-CMM é um modelo de maturidade focado em pessoas."
+},
+{
+"id": "103",
+"disciplina": "Engenharia de Software",
+"assunto": "Desafios na Manutenção",
+"banca": "FGV",
+"instituicao": "Órgão Público",
+"ano": "2026",
+"cargo": "Analista de Sistemas Pleno",
+"nivel": "Superior",
+"enunciado": "Profissionais de TI frequentemente encontram sérios problemas durante a fase de manutenção de sistemas legados. Qual dos fatores abaixo é apontado pelo material como um dos principais problemas sociotécnicos encontrados na manutenção?",
+"alternativas": {
+"A": "A enorme disponibilidade de desenvolvedores originais, que acabam gerando conflitos de interesse ao competir pelo conserto do código.",
+"B": "O excesso de documentação de análise e projeto, que costuma estar sempre tão atualizada que retarda o tempo de leitura da equipe.",
+"C": "A facilidade natural em se realizar testes de regressão graças à abundante presença de registros de testes automatizados.",
+"D": "A baixa estima dos mantenedores, pois geralmente os profissionais acham que é mais 'nobre' a tarefa de desenvolver novos sistemas do que a de manter sistemas existentes."
+},
+"resposta_correta": "D",
+"comentario": "A alternativa D está correta, figurando exatamente no slide 'Problemas na Manutenção'. As alternativas A, B e C afirmam justamente o inverso dos problemas apontados no material, que ressalta que 'Geralmente, a única fonte de informação disponível... é o código fonte', que há 'Dificuldade em se realizar Testes de Regressão quando não existe nenhum registro' e que 'os desenvolvedores originais nem sempre se encontram disponíveis'."
+},
+{
+"id": "104",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Métodos para Apoio à Manutenção",
+"banca": "FCC",
+"instituicao": "Empresa Estadual",
+"ano": "2026",
+"cargo": "Desenvolvedor Sênior",
+"nivel": "Superior",
+"enunciado": "Para superar as dificuldades inerentes à manutenção, técnicas avançadas são aplicadas ao código legado. Qual é a definição exata de 'Engenharia Reversa' de acordo com o PDF estudado?",
+"alternativas": {
+"A": "É o processo iterativo de incorporar em um novo produto códigos e especificações geradas durante desenvolvimentos anteriores para poupar tempo de codificação.",
+"B": "É a disciplina que aplica direcionamento técnico para controlar as modificações sobre as características físicas de um item de configuração.",
+"C": "É o processo de análise dos componentes do sistema e dos seus relacionamentos, a fim de descrever este sistema em um nível de abstração mais alto do que o código fonte.",
+"D": "É a recuperação de informações de projeto a fim de reconstituir e alterar fisicamente o sistema para melhorar a sua qualidade global (envolvendo reestruturação)."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C reproduz a definição literal de Engenharia Reversa encontrada no documento. A alternativa A descreve 'Reutilização de Software'. A alternativa B descreve 'Gerência de Configuração'. A alternativa D descreve 'Reengenharia'."
+},
+{
+"id": "105",
+"disciplina": "Engenharia de Software",
+"assunto": "Ciclo de Vida e Custos",
+"banca": "VUNESP",
+"instituicao": "Polícia Civil",
+"ano": "2026",
+"cargo": "Perito em Informática",
+"nivel": "Superior",
+"enunciado": "Analisando a divisão dos recursos financeiros ao longo do tempo de vida útil de uma aplicação, o 'Custo de Manutenção' representa uma parcela significativa. Conforme o material instrucional, a fase de 'Operação e Manutenção' compromete, frequentemente, qual faixa percentual do Custo Total do Projeto?",
+"alternativas": {
+"A": "De 20% a 40%",
+"B": "Aproximadamente 50%",
+"C": "De 60% a 80%",
+"D": "Menos de 10%"
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C é a correta. O documento afirma na seção 'Custo de Manutenção' que 'O custo de Manutenção de Software está freqüentemente orçado entre 60% e 80% de todo o Custo do Projeto', sendo este o valor destinado à fase de 'Operação e Manutenção'. A fase de 'Desenvolvimento' consome de '20 a 40%'."
+},
+{
+"id": "106",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Reengenharia vs. Engenharia Reversa",
+"banca": "Instituto Consulplan",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Analista Judiciário",
+"nivel": "Superior",
+"enunciado": "Os conceitos de Engenharia Reversa e Reengenharia são frequentemente confundidos. Baseando-se nas definições estritas do material, assinale a opção que distingue corretamente a Reengenharia.",
+"alternativas": {
+"A": "A Reengenharia é apenas uma ferramenta de diagrama lógico que não permite modificação física do sistema, diferentemente da Engenharia Reversa, que reescreve o código.",
+"B": "A Reengenharia envolve um processo mais amplo e destrutivo, sendo formada por: Engenharia Reversa, Reestruturação e Engenharia Progressa (visando melhorar a qualidade global do software).",
+"C": "A Reengenharia atua exclusivamente no banco de dados via formulários de manutenção do tipo 'Perfectiva', abstendo-se do código-fonte.",
+"D": "Ambos os termos significam exatamente a mesma coisa na norma NBR ISO 12207, focando na reestruturação exclusiva do hardware."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B é a correta. A definição de Reengenharia estabelece que ela envolve 'Engenharia Reversa, Reestruturação e Engenharia Progressa' para 'melhorar a sua qualidade global'. As demais alternativas propõem definições limitantes ou incorretas."
+},
+{
+"id": "107",
+"disciplina": "Engenharia de Software",
+"assunto": "Gerência de Configuração",
+"banca": "AOCP",
+"instituicao": "Polícia Militar",
+"ano": "2026",
+"cargo": "Oficial Técnico",
+"nivel": "Superior",
+"enunciado": "O controle estrutural do software é balizado pela IEEE por meio da 'Gerência de Configuração'. Dentre as responsabilidades dessa disciplina citadas no texto, encontra-se:",
+"alternativas": {
+"A": "Projetar interfaces gráficas e adaptar o software aos novos sistemas operacionais.",
+"B": "Aumentar a coesão do código de forma autônoma sem a interferência dos programadores.",
+"C": "Identificar e documentar as características físicas e funcionais de um item de configuração, controlar suas modificações e relatar o status da mudança.",
+"D": "Desenvolver testes alfa nas instalações do cliente focando unicamente na redução de carga cognitiva."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta e transcreve a definição da IEEE para Gerência de Configuração apresentada no material: 'disciplina... para identificar e documentar as características físicas e funcionais de um item de configuração, controlar as modificações... e relatar o processamento da mudança'. As outras opções referem-se a manutenção adaptativa, refatoração de código (princípios) ou testes."
+},
+{
+"id": "108",
+"disciplina": "Tecnologia da Informação",
+"assunto": "Processos Iniciais",
+"banca": "CEBRASPE",
+"instituicao": "Ministério Público",
+"ano": "2026",
+"cargo": "Analista de Tecnologia da Informação",
+"nivel": "Superior",
+"enunciado": "O ciclo da manutenção precisa de marcos de início e fim. Conforme a norma NBR ISO 12207, qual evento deflagra (inicia) formalmente o processo de Manutenção de Software?",
+"alternativas": {
+"A": "A manutenção se inicia quando a equipe de desenvolvedores originais é desmobilizada para o início do treinamento no projeto seguinte.",
+"B": "Inicia-se rigorosamente durante a fase de engenharia reversa do código após a entrega final de protótipos WIMP.",
+"C": "A manutenção se inicia quando uma necessidade de modificação é identificada, ou seja, quando se necessita corrigir problemas, realizar adaptações ou melhorias.",
+"D": "Ocorre estritamente a partir da descontinuação do software pelo cliente (end-of-life)."
+},
+"resposta_correta": "C",
+"comentario": "A alternativa C está correta conforme a Fonte 7, que afirma: 'A Manutenção se inicia quando uma necessidade de modificação é identificada, ou seja, quando se necessita corrigir problemas, realizar adaptações ou melhorias'. A alternativa D está errada pois a descontinuação do software marca o 'final' do processo de manutenção."
+},
+{
+"id": "109",
+"disciplina": "Governança de TI",
+"assunto": "Reutilização de Software",
+"banca": "IBAM",
+"instituicao": "Prefeitura Municipal",
+"ano": "2026",
+"cargo": "Arquiteto de Soluções",
+"nivel": "Superior",
+"enunciado": "A 'Reutilização de Software' não se limita exclusivamente a copiar blocos de código-fonte. Segundo os métodos de apoio à manutenção delineados no PDF, o processo de Reutilização pode incorporar em um novo Produto:",
+"alternativas": {
+"A": "Unicamente o código-fonte executável, sendo vetada a reutilização de documentação por questões de copyright.",
+"B": "Código, especificações de requisito e de projeto, planos de teste, e qualquer produto gerado durante desenvolvimentos anteriores.",
+"C": "Apenas o banco de dados populado com a massa de testes gerada via FillDB ou bibliotecas Faker.",
+"D": "Modelos de hardware físico legados que devem ser integrados à nova plataforma corporativa em nuvem."
+},
+"resposta_correta": "B",
+"comentario": "A alternativa B reproduz fielmente o escopo da 'Reutilização de Software' conforme o documento: 'Processo de Incorporar em um novo Produto: código, especificações de requisito e de projeto, planos de teste, qualquer produto gerado durante desenvolvimentos anteriores'. As demais alternativas restringem erroneamente o escopo apenas a código, dados de teste ou introduzem conceitos alheios (hardware em nuvem)."
+}
+]]
