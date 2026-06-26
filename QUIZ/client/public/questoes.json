@@ -1,0 +1,287 @@
+[
+  {
+    "id": "900601",
+    "disciplina": "Português",
+    "assunto": "Interpretação de Texto",
+    "banca": "CESPE",
+    "instituicao": "TJ-DF",
+    "ano": "2024",
+    "cargo": "Analista Judiciário",
+    "nivel": "Superior",
+    "enunciado": "Leia o texto a seguir:\n\n'A educação é o processo de desenvolvimento da capacidade física, intelectual e moral do ser humano, destinado a integrar-se na sociedade em que vive. Ela não é um fim em si mesma, mas um meio para que o indivíduo possa realizar-se plenamente.'\n\nDe acordo com o texto, a educação é:",
+    "alternativas": {
+      "A": "Um fim em si mesma, destinada apenas ao desenvolvimento intelectual",
+      "B": "Um processo de desenvolvimento que integra o indivíduo na sociedade",
+      "C": "Um meio exclusivamente para o desenvolvimento físico",
+      "D": "Uma atividade que não contribui para a realização pessoal"
+    },
+    "resposta_correta": "B",
+    "comentario": "O texto deixa claro que a educação é um processo de desenvolvimento (físico, intelectual e moral) destinado a integrar o indivíduo na sociedade. Além disso, afirma que ela não é um fim em si mesma, mas um meio para a realização plena do ser humano. A alternativa B resume corretamente esses conceitos."
+  },
+  {
+    "id": "900602",
+    "disciplina": "Português",
+    "assunto": "Gramática - Regência Verbal",
+    "banca": "CESPE",
+    "instituicao": "TJ-DF",
+    "ano": "2024",
+    "cargo": "Analista Judiciário",
+    "nivel": "Superior",
+    "enunciado": "Assinale a alternativa em que a regência verbal está correta:",
+    "alternativas": {
+      "A": "O juiz insistiu em que o réu comparecesse à audiência",
+      "B": "O advogado aspirava o cargo de desembargador",
+      "C": "A testemunha assistiu o acidente da janela",
+      "D": "O promotor procedeu à análise dos documentos"
+    },
+    "resposta_correta": "A",
+    "comentario": "A alternativa A está correta. 'Insistir em' é a regência verbal adequada. Analisando as demais: B - 'aspirar' (no sentido de desejar) não admite preposição; C - 'assistir' (presenciar) não admite objeto direto; D - 'proceder' (agir) não admite preposição 'a' neste contexto."
+  },
+  {
+    "id": "900603",
+    "disciplina": "Direito Constitucional",
+    "assunto": "Direitos Fundamentais",
+    "banca": "FCC",
+    "instituicao": "TRE-SP",
+    "ano": "2023",
+    "cargo": "Juiz Eleitoral",
+    "nivel": "Superior",
+    "enunciado": "De acordo com a Constituição Federal de 1988, os direitos e garantias fundamentais têm aplicação imediata. Qual das alternativas melhor descreve essa característica?",
+    "alternativas": {
+      "A": "Os direitos fundamentais dependem de lei complementar para sua efetivação",
+      "B": "Os direitos fundamentais são auto-aplicáveis e independem de regulamentação legal",
+      "C": "Os direitos fundamentais só podem ser exercidos após aprovação do Congresso Nacional",
+      "D": "Os direitos fundamentais aplicam-se apenas aos brasileiros natos"
+    },
+    "resposta_correta": "B",
+    "comentario": "A Constituição Federal, em seu artigo 5º, parágrafo 1º, estabelece que 'as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata'. Isso significa que tais direitos são auto-aplicáveis, não dependendo de lei complementar ou ordinária para sua efetivação. A alternativa B descreve corretamente essa característica."
+  },
+  {
+    "id": "900604",
+    "disciplina": "Direito Constitucional",
+    "assunto": "Organização do Estado",
+    "banca": "CESPE",
+    "instituicao": "MPU",
+    "ano": "2023",
+    "cargo": "Procurador",
+    "nivel": "Superior",
+    "enunciado": "A República Federativa do Brasil é formada pela união indissolúvel de Estados, Municípios e Distrito Federal. Sobre a federação brasileira, é correto afirmar:",
+    "alternativas": {
+      "A": "Os Estados-membros possuem soberania, podendo denunciar a Constituição Federal",
+      "B": "O Distrito Federal possui autonomia administrativa e financeira, mas não legislativa",
+      "C": "Os Municípios são entidades federativas autônomas com competência legislativa própria",
+      "D": "A União é responsável exclusivamente pela defesa nacional e relações internacionais"
+    },
+    "resposta_correta": "C",
+    "comentario": "A alternativa C está correta. Os Municípios são entidades federativas autônomas com competência legislativa própria, conforme estabelecido na Constituição Federal. As demais alternativas contêm erros: A - Estados têm autonomia, não soberania; B - O DF possui autonomia legislativa também; D - A União tem outras responsabilidades além das mencionadas."
+  },
+  {
+    "id": "900605",
+    "disciplina": "Raciocínio Lógico",
+    "assunto": "Lógica Proposicional",
+    "banca": "CESPE",
+    "instituicao": "ABIN",
+    "ano": "2024",
+    "cargo": "Agente de Inteligência",
+    "nivel": "Superior",
+    "enunciado": "Considere as proposições:\nP: 'Se chove, então a rua fica molhada'\nQ: 'A rua ficou molhada'\n\nPodemos concluir que:",
+    "alternativas": {
+      "A": "Choveu com certeza",
+      "B": "Não choveu",
+      "C": "Pode ter chovido ou a rua foi molhada por outro motivo",
+      "D": "A rua não ficou molhada"
+    },
+    "resposta_correta": "C",
+    "comentario": "Temos uma condicional 'Se chove, então a rua fica molhada' e sabemos que 'A rua ficou molhada'. Isso não nos permite concluir que choveu, pois a rua pode ter ficado molhada por outro motivo (rega, limpeza, etc.). Esse é o erro lógico conhecido como 'afirmação do consequente'. A alternativa C descreve corretamente a situação."
+  },
+  {
+    "id": "900606",
+    "disciplina": "Raciocínio Lógico",
+    "assunto": "Análise Combinatória",
+    "banca": "FCC",
+    "instituicao": "TRT-SP",
+    "ano": "2023",
+    "cargo": "Analista Judiciário",
+    "nivel": "Superior",
+    "enunciado": "De quantas maneiras diferentes é possível organizar 5 pessoas em uma fila?",
+    "alternativas": {
+      "A": "25",
+      "B": "120",
+      "C": "60",
+      "D": "240"
+    },
+    "resposta_correta": "B",
+    "comentario": "O número de maneiras de organizar n pessoas em uma fila é n! (n fatorial). Para 5 pessoas: 5! = 5 × 4 × 3 × 2 × 1 = 120. Portanto, existem 120 maneiras diferentes de organizar 5 pessoas em uma fila."
+  },
+  {
+    "id": "900607",
+    "disciplina": "Matemática",
+    "assunto": "Álgebra - Equações de Primeiro Grau",
+    "banca": "CESPE",
+    "instituicao": "Polícia Federal",
+    "ano": "2024",
+    "cargo": "Agente",
+    "nivel": "Médio",
+    "enunciado": "Resolva a equação: 3x + 5 = 20",
+    "alternativas": {
+      "A": "x = 5",
+      "B": "x = 10",
+      "C": "x = 15",
+      "D": "x = 25"
+    },
+    "resposta_correta": "A",
+    "comentario": "Resolvendo a equação: 3x + 5 = 20 → 3x = 20 - 5 → 3x = 15 → x = 15/3 → x = 5. A resposta correta é x = 5."
+  },
+  {
+    "id": "900608",
+    "disciplina": "Matemática",
+    "assunto": "Geometria - Área",
+    "banca": "CESPE",
+    "instituicao": "Polícia Federal",
+    "ano": "2024",
+    "cargo": "Agente",
+    "nivel": "Médio",
+    "enunciado": "Qual é a área de um retângulo com base 12 cm e altura 8 cm?",
+    "alternativas": {
+      "A": "20 cm²",
+      "B": "40 cm²",
+      "C": "96 cm²",
+      "D": "192 cm²"
+    },
+    "resposta_correta": "C",
+    "comentario": "A área de um retângulo é calculada pela fórmula: A = base × altura. Portanto: A = 12 × 8 = 96 cm²."
+  },
+  {
+    "id": "900609",
+    "disciplina": "Conhecimentos Gerais",
+    "assunto": "História do Brasil",
+    "banca": "CESPE",
+    "instituicao": "TJ-DF",
+    "ano": "2023",
+    "cargo": "Técnico Judiciário",
+    "nivel": "Médio",
+    "enunciado": "Em qual ano foi proclamada a República no Brasil?",
+    "alternativas": {
+      "A": "1822",
+      "B": "1889",
+      "C": "1891",
+      "D": "1930"
+    },
+    "resposta_correta": "B",
+    "comentario": "A República foi proclamada no Brasil em 15 de novembro de 1889, com a deposição do Imperador Dom Pedro II. Esse evento marcou o fim do Império e o início da República da Velha República (1889-1930)."
+  },
+  {
+    "id": "900610",
+    "disciplina": "Conhecimentos Gerais",
+    "assunto": "Geografia - Capitais",
+    "banca": "FCC",
+    "instituicao": "TRE-SP",
+    "ano": "2023",
+    "cargo": "Técnico Eleitoral",
+    "nivel": "Médio",
+    "enunciado": "Qual é a capital do estado de Minas Gerais?",
+    "alternativas": {
+      "A": "Ouro Preto",
+      "B": "Belo Horizonte",
+      "C": "Juiz de Fora",
+      "D": "Montes Claros"
+    },
+    "resposta_correta": "B",
+    "comentario": "Belo Horizonte é a capital do estado de Minas Gerais desde 1897. A cidade foi planejada e construída especificamente para ser a capital, substituindo Ouro Preto que era a capital anterior."
+  },
+  {
+    "id": "900611",
+    "disciplina": "Português",
+    "assunto": "Pontuação",
+    "banca": "CESPE",
+    "instituicao": "TJ-DF",
+    "ano": "2024",
+    "cargo": "Analista Judiciário",
+    "nivel": "Superior",
+    "enunciado": "Qual das alternativas apresenta o uso correto de pontuação?",
+    "alternativas": {
+      "A": "O juiz, decidiu, pela condenação do réu.",
+      "B": "O juiz decidiu pela condenação do réu.",
+      "C": "O juiz decidiu, pela condenação, do réu.",
+      "D": "O juiz decidiu pela condenação, do réu."
+    },
+    "resposta_correta": "B",
+    "comentario": "A alternativa B apresenta o uso correto de pontuação. A frase não necessita de vírgulas, pois segue a ordem direta (sujeito + verbo + complemento). As demais alternativas contêm vírgulas desnecessárias ou mal colocadas que prejudicam a clareza da frase."
+  },
+  {
+    "id": "900612",
+    "disciplina": "Direito Constitucional",
+    "assunto": "Direitos Políticos",
+    "banca": "CESPE",
+    "instituicao": "TRE-SP",
+    "ano": "2023",
+    "cargo": "Analista Judiciário",
+    "nivel": "Superior",
+    "enunciado": "De acordo com a Constituição Federal, o voto é:",
+    "alternativas": {
+      "A": "Obrigatório apenas para maiores de 21 anos",
+      "B": "Facultativo para maiores de 16 anos",
+      "C": "Obrigatório para maiores de 18 anos e facultativo para maiores de 16 anos",
+      "D": "Facultativo para todos os cidadãos"
+    },
+    "resposta_correta": "C",
+    "comentario": "A Constituição Federal estabelece que o voto é obrigatório para maiores de 18 anos e facultativo para maiores de 16 anos e menores de 18 anos, bem como para maiores de 70 anos. A alternativa C descreve corretamente essa situação."
+  },
+  {
+    "id": "900613",
+    "disciplina": "Raciocínio Lógico",
+    "assunto": "Silogismo",
+    "banca": "FCC",
+    "instituicao": "TJAP",
+    "ano": "2023",
+    "cargo": "Juiz",
+    "nivel": "Superior",
+    "enunciado": "Considere o silogismo:\nTodos os homens são mortais.\nSócrates é um homem.\nPortanto, Sócrates é mortal.\n\nEste silogismo é:",
+    "alternativas": {
+      "A": "Inválido, pois a conclusão não segue das premissas",
+      "B": "Válido, pois a conclusão segue logicamente das premissas",
+      "C": "Inválido, pois Sócrates não é homem",
+      "D": "Válido, mas a conclusão é falsa"
+    },
+    "resposta_correta": "B",
+    "comentario": "Este é um silogismo válido. A estrutura é correta: se todos os homens são mortais (premissa maior) e Sócrates é um homem (premissa menor), então logicamente Sócrates é mortal (conclusão). A conclusão segue necessariamente das premissas, tornando o silogismo válido."
+  },
+  {
+    "id": "900614",
+    "disciplina": "Matemática",
+    "assunto": "Porcentagem",
+    "banca": "CESPE",
+    "instituicao": "Polícia Federal",
+    "ano": "2024",
+    "cargo": "Agente",
+    "nivel": "Médio",
+    "enunciado": "Se um produto custa R$ 100 e recebe um desconto de 20%, qual será seu novo preço?",
+    "alternativas": {
+      "A": "R$ 20",
+      "B": "R$ 50",
+      "C": "R$ 80",
+      "D": "R$ 120"
+    },
+    "resposta_correta": "C",
+    "comentario": "Para calcular o novo preço com desconto de 20%: Desconto = 100 × 0,20 = R$ 20. Novo preço = 100 - 20 = R$ 80. Portanto, o novo preço será R$ 80."
+  },
+  {
+    "id": "900615",
+    "disciplina": "Conhecimentos Gerais",
+    "assunto": "Atualidades",
+    "banca": "CESPE",
+    "instituicao": "TJ-DF",
+    "ano": "2023",
+    "cargo": "Técnico Judiciário",
+    "nivel": "Médio",
+    "enunciado": "Qual é o maior país do mundo em extensão territorial?",
+    "alternativas": {
+      "A": "Canadá",
+      "B": "China",
+      "C": "Rússia",
+      "D": "Estados Unidos"
+    },
+    "resposta_correta": "C",
+    "comentario": "A Rússia é o maior país do mundo em extensão territorial, com aproximadamente 17,1 milhões de quilômetros quadrados. Ela se estende por 11 fusos horários diferentes, abrangendo grande parte da Europa e da Ásia."
+  }
+]
